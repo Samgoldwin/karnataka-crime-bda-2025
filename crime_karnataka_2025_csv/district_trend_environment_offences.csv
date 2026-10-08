@@ -1,0 +1,40 @@
+﻿table_id,district,cases_2023,cases_2024,cases_2025,population_lakhs_2025,rate_2025_environment_offences,chargesheeting_rate_2025
+11.1,Bagalkot,82,69,219,22.8,9.6,100.0
+11.1,Bengaluru City,1335,989,2808,165.3,17.0,99.9
+11.1,Bengaluru District,13,8,6,12.3,0.5,80.0
+11.1,Belagavi District,19,4,14,27.9,0.5,100.0
+11.1,Ballari,1,2,1,18.7,0.1,100.0
+11.1,Bidar,12,15,9,20.3,0.4,100.0
+11.1,Vijayapura,34,21,61,28.3,2.2,100.0
+11.1,Chikkaballapura,7,1,2,14.2,0.1,100.0
+11.1,Chamarajnagar,0,1,2,11.0,0.2,
+11.1,Chikkamagaluru,2,5,1,11.1,0.1,100.0
+11.1,Chitradurga,8,2,1,18.8,0.1,
+11.1,Dakshina Kannada,3,0,0,11.7,0.0,
+11.1,Davanagere,1,2,3,18.3,0.2,
+11.1,Dharwad,0,0,0,11.0,0.0,
+11.1,Gadag,0,1,0,12.1,0.0,100.0
+11.1,Kalaburgi,1,3,1,16.0,0.1,100.0
+11.1,Hassan,1,4,0,18.6,0.0,
+11.1,Haveri,2,9,8,18.5,0.4,100.0
+11.1,Hubballi Dharwad City,0,0,0,11.5,0.0,
+11.1,KGF,1,0,0,8.7,0.0,
+11.1,Kodagu,2,13,3,5.6,0.5,100.0
+11.1,Kolar,4,6,13,9.0,1.4,57.1
+11.1,Koppal,1,4,3,17.2,0.2,100.0
+11.1,Mandya,0,3,4,18.7,0.2,40.0
+11.1,Mangaluru City,9,0,3,12.2,0.2,100.0
+11.1,Mysuru City,4,2,4,14.7,0.3,25.0
+11.1,Mysuru District,2,1,3,21.2,0.1,100.0
+11.1,Raichur,0,0,0,23.6,0.0,
+11.1,KRailways,0,0,0,0.0,0.0,
+11.1,Bengaluru South,0,16,7,11.6,0.6,100.0
+11.1,Shimoga,29,15,9,19.2,0.5,100.0
+11.1,Tumakuru,6,5,80,28.2,2.8,97.5
+11.1,Udupi,5,1,3,12.8,0.2,100.0
+11.1,Uttara Kannada,2,0,0,15.6,0.0,
+11.1,Yadgiri,1,0,0,15.7,0.0,
+11.1,Belagavi City,0,4,0,29.1,0.0,100.0
+11.1,Kalaburgi City,1,7,2,16.4,0.1,100.0
+11.1,Vijayanagara,1,1,1,16.9,0.1,100.0
+11.1,TOTAL_DISTRICTS,1589,1214,3271,764.6,4.28,99.50

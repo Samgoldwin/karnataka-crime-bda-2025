@@ -1,0 +1,14 @@
+﻿file,description
+district_master_2025.csv,"One row per district: IPC/SLL cases & rates, total crime rate, population, conviction/chargesheet/pendency KPIs (2025)"
+master_district_trends_long.csv,Tidy long format: cases per district x year (2023-2025) across all 13 crime domains; 2025 rate/pop/cs-rate attached
+state_trend_2011_2025.csv,"Karnataka state-level IPC/SLL incidence & rates, 2011-2025"
+ipc_crime_heads_trend.csv,IPC/BNS crime heads: cases & rates 2023-2025 + share
+sll_crime_heads_trend.csv,SLL crime heads/acts: cases & rates 2023-2025 + share
+district_trend_*.csv,"Per-domain district tables (cases 2023-2025, population, rate, chargesheeting rate). Table ids match the publication."
+violent_crime_heads_by_district_2025.csv,"Violent crime heads (murder..arson, total) x district, 2025"
+missing_children_district_2025.csv,"Missing children <18: prior-year unrecovered + 2025 by gender, 2025"
+missing_persons_district_2025.csv,Missing persons all ages: prior-year unrecovered + 2025 by gender
+property_stolen_recovered_district_2023_2025.csv,"Property value stolen/recovered (Rs crore) & recovery %, 2023-2025"
+property_by_nature_2025.csv,"Property stolen/recovered by nature (vehicles, gold, etc.), 2025"
+recidivism_ipc_district_2025.csv,"Repeat-offender share among persons arrested under IPC/BNS, 2025"
+recidivism_sll_district_2025.csv,"Repeat-offender share among persons arrested under SLL, 2025"

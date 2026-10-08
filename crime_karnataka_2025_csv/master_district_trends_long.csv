@@ -1,0 +1,1522 @@
+﻿domain,table_id,district,year,cases,population_lakhs_2025,rate_2025,chargesheeting_rate_2025
+total_cognizable,1.3,Bagalkot,2023,3302,22.8,156.4,84.6
+total_cognizable,1.3,Bagalkot,2024,3140,22.8,156.4,84.6
+total_cognizable,1.3,Bagalkot,2025,3568,22.8,156.4,84.6
+total_cognizable,1.3,Bengaluru City,2023,68520,165.3,349.2,63.1
+total_cognizable,1.3,Bengaluru City,2024,57555,165.3,349.2,63.1
+total_cognizable,1.3,Bengaluru City,2025,57713,165.3,349.2,63.1
+total_cognizable,1.3,Bengaluru District,2023,9421,12.3,520.0,62.5
+total_cognizable,1.3,Bengaluru District,2024,9243,12.3,520.0,62.5
+total_cognizable,1.3,Bengaluru District,2025,6377,12.3,520.0,62.5
+total_cognizable,1.3,Belagavi District,2023,6785,27.9,235.7,83.9
+total_cognizable,1.3,Belagavi District,2024,6267,27.9,235.7,83.9
+total_cognizable,1.3,Belagavi District,2025,6584,27.9,235.7,83.9
+total_cognizable,1.3,Ballari,2023,3439,18.7,207.5,84.3
+total_cognizable,1.3,Ballari,2024,3384,18.7,207.5,84.3
+total_cognizable,1.3,Ballari,2025,3875,18.7,207.5,84.3
+total_cognizable,1.3,Bidar,2023,4334,20.3,208.1,84.0
+total_cognizable,1.3,Bidar,2024,3850,20.3,208.1,84.0
+total_cognizable,1.3,Bidar,2025,4225,20.3,208.1,84.0
+total_cognizable,1.3,Vijayapura,2023,4506,28.3,178.7,83.2
+total_cognizable,1.3,Vijayapura,2024,4333,28.3,178.7,83.2
+total_cognizable,1.3,Vijayapura,2025,5052,28.3,178.7,83.2
+total_cognizable,1.3,Chikkaballapura,2023,3957,14.2,292.3,86.5
+total_cognizable,1.3,Chikkaballapura,2024,3884,14.2,292.3,86.5
+total_cognizable,1.3,Chikkaballapura,2025,4151,14.2,292.3,86.5
+total_cognizable,1.3,Chamarajnagar,2023,2668,11.0,263.9,88.8
+total_cognizable,1.3,Chamarajnagar,2024,2759,11.0,263.9,88.8
+total_cognizable,1.3,Chamarajnagar,2025,2912,11.0,263.9,88.8
+total_cognizable,1.3,Chikkamagaluru,2023,4247,11.1,377.0,86.3
+total_cognizable,1.3,Chikkamagaluru,2024,3711,11.1,377.0,86.3
+total_cognizable,1.3,Chikkamagaluru,2025,4200,11.1,377.0,86.3
+total_cognizable,1.3,Chitradurga,2023,5912,18.8,309.7,84.0
+total_cognizable,1.3,Chitradurga,2024,5792,18.8,309.7,84.0
+total_cognizable,1.3,Chitradurga,2025,5823,18.8,309.7,84.0
+total_cognizable,1.3,Dakshina Kannada,2023,2210,11.7,190.4,81.1
+total_cognizable,1.3,Dakshina Kannada,2024,2128,11.7,190.4,81.1
+total_cognizable,1.3,Dakshina Kannada,2025,2231,11.7,190.4,81.1
+total_cognizable,1.3,Davanagere,2023,4925,18.3,260.0,80.1
+total_cognizable,1.3,Davanagere,2024,4448,18.3,260.0,80.1
+total_cognizable,1.3,Davanagere,2025,4757,18.3,260.0,80.1
+total_cognizable,1.3,Dharwad,2023,1808,11.0,148.9,80.4
+total_cognizable,1.3,Dharwad,2024,1609,11.0,148.9,80.4
+total_cognizable,1.3,Dharwad,2025,1639,11.0,148.9,80.4
+total_cognizable,1.3,Gadag,2023,2187,12.1,185.7,87.5
+total_cognizable,1.3,Gadag,2024,2003,12.1,185.7,87.5
+total_cognizable,1.3,Gadag,2025,2246,12.1,185.7,87.5
+total_cognizable,1.3,Kalaburgi,2023,3669,16.0,231.5,84.7
+total_cognizable,1.3,Kalaburgi,2024,3536,16.0,231.5,84.7
+total_cognizable,1.3,Kalaburgi,2025,3693,16.0,231.5,84.7
+total_cognizable,1.3,Hassan,2023,6363,16.4,374.0,81.2
+total_cognizable,1.3,Hassan,2024,6200,16.4,374.0,81.2
+total_cognizable,1.3,Hassan,2025,6135,16.4,374.0,81.2
+total_cognizable,1.3,Haveri,2023,3404,18.6,191.3,77.7
+total_cognizable,1.3,Haveri,2024,3449,18.6,191.3,77.7
+total_cognizable,1.3,Haveri,2025,3550,18.6,191.3,77.7
+total_cognizable,1.3,Hubballi Dharwad City,2023,3065,18.5,142.2,74.3
+total_cognizable,1.3,Hubballi Dharwad City,2024,2925,18.5,142.2,74.3
+total_cognizable,1.3,Hubballi Dharwad City,2025,2630,18.5,142.2,74.3
+total_cognizable,1.3,KGF,2023,1342,11.5,98.9,78.5
+total_cognizable,1.3,KGF,2024,1128,11.5,98.9,78.5
+total_cognizable,1.3,KGF,2025,1136,11.5,98.9,78.5
+total_cognizable,1.3,Kodagu,2023,2111,8.7,264.8,82.6
+total_cognizable,1.3,Kodagu,2024,1991,8.7,264.8,82.6
+total_cognizable,1.3,Kodagu,2025,2312,8.7,264.8,82.6
+total_cognizable,1.3,Kolar,2023,3180,5.6,487.1,90.5
+total_cognizable,1.3,Kolar,2024,2717,5.6,487.1,90.5
+total_cognizable,1.3,Kolar,2025,2742,5.6,487.1,90.5
+total_cognizable,1.3,Koppal,2023,2746,9.0,354.3,91.0
+total_cognizable,1.3,Koppal,2024,2795,9.0,354.3,91.0
+total_cognizable,1.3,Koppal,2025,3188,9.0,354.3,91.0
+total_cognizable,1.3,Mandya,2023,5964,17.2,344.9,85.6
+total_cognizable,1.3,Mandya,2024,5519,17.2,344.9,85.6
+total_cognizable,1.3,Mandya,2025,5916,17.2,344.9,85.6
+total_cognizable,1.3,Mangaluru City,2023,3398,18.7,186.2,86.3
+total_cognizable,1.3,Mangaluru City,2024,3747,18.7,186.2,86.3
+total_cognizable,1.3,Mangaluru City,2025,3476,18.7,186.2,86.3
+total_cognizable,1.3,Mysuru City,2023,3269,12.2,266.9,79.3
+total_cognizable,1.3,Mysuru City,2024,3150,12.2,266.9,79.3
+total_cognizable,1.3,Mysuru City,2025,3255,12.2,266.9,79.3
+total_cognizable,1.3,Mysuru District,2023,5424,14.7,397.7,81.5
+total_cognizable,1.3,Mysuru District,2024,5620,14.7,397.7,81.5
+total_cognizable,1.3,Mysuru District,2025,5853,14.7,397.7,81.5
+total_cognizable,1.3,Raichur,2023,4087,21.2,201.5,86.8
+total_cognizable,1.3,Raichur,2024,4262,21.2,201.5,86.8
+total_cognizable,1.3,Raichur,2025,4266,21.2,201.5,86.8
+total_cognizable,1.3,KRailways,2023,1023,23.6,33.8,43.3
+total_cognizable,1.3,KRailways,2024,957,23.6,33.8,43.3
+total_cognizable,1.3,KRailways,2025,797,23.6,33.8,43.3
+total_cognizable,1.3,Bengaluru South,2023,5252,0.0,0.0,76.9
+total_cognizable,1.3,Bengaluru South,2024,4815,0.0,0.0,76.9
+total_cognizable,1.3,Bengaluru South,2025,4578,0.0,0.0,76.9
+total_cognizable,1.3,Shimoga,2023,6404,11.6,602.5,82.5
+total_cognizable,1.3,Shimoga,2024,6413,11.6,602.5,82.5
+total_cognizable,1.3,Shimoga,2025,6989,11.6,602.5,82.5
+total_cognizable,1.3,Tumakuru,2023,8249,19.2,441.5,83.4
+total_cognizable,1.3,Tumakuru,2024,8214,19.2,441.5,83.4
+total_cognizable,1.3,Tumakuru,2025,8474,19.2,441.5,83.4
+total_cognizable,1.3,Udupi,2023,3321,28.2,106.5,79.3
+total_cognizable,1.3,Udupi,2024,3352,28.2,106.5,79.3
+total_cognizable,1.3,Udupi,2025,3001,28.2,106.5,79.3
+total_cognizable,1.3,Uttara Kannada,2023,3495,12.7,308.0,85.3
+total_cognizable,1.3,Uttara Kannada,2024,3483,12.7,308.0,85.3
+total_cognizable,1.3,Uttara Kannada,2025,3927,12.7,308.0,85.3
+total_cognizable,1.3,Yadgiri,2023,2241,15.6,173.7,88.6
+total_cognizable,1.3,Yadgiri,2024,2480,15.6,173.7,88.6
+total_cognizable,1.3,Yadgiri,2025,2715,15.6,173.7,88.6
+total_cognizable,1.3,Belagavi City,2023,2087,15.7,147.2,72.4
+total_cognizable,1.3,Belagavi City,2024,2124,15.7,147.2,72.4
+total_cognizable,1.3,Belagavi City,2025,2305,15.7,147.2,72.4
+total_cognizable,1.3,Kalaburgi City,2023,2741,16.9,161.5,81.0
+total_cognizable,1.3,Kalaburgi City,2024,2369,16.9,161.5,81.0
+total_cognizable,1.3,Kalaburgi City,2025,2730,16.9,161.5,81.0
+total_cognizable,1.3,Vijayanagara,2023,3178,29.1,111.7,86.5
+total_cognizable,1.3,Vijayanagara,2024,2979,29.1,111.7,86.5
+total_cognizable,1.3,Vijayanagara,2025,3248,29.1,111.7,86.5
+total_cognizable,1.3,TOTAL_DISTRICTS,2023,214234,764.59,264.55,76.8
+total_cognizable,1.3,TOTAL_DISTRICTS,2024,198331,764.59,264.55,76.8
+total_cognizable,1.3,TOTAL_DISTRICTS,2025,202269,764.59,264.55,76.8
+sll,1.4,Bagalkot,2023,985,22.8,57.1,97.3
+sll,1.4,Bagalkot,2024,921,22.8,57.1,97.3
+sll,1.4,Bagalkot,2025,1303,22.8,57.1,97.3
+sll,1.4,Bengaluru City,2023,26883,165.3,116.2,49.4
+sll,1.4,Bengaluru City,2024,22840,165.3,116.2,49.4
+sll,1.4,Bengaluru City,2025,19205,165.3,116.2,49.4
+sll,1.4,Bengaluru District,2023,1853,12.3,81.2,50.4
+sll,1.4,Bengaluru District,2024,1607,12.3,81.2,50.4
+sll,1.4,Bengaluru District,2025,999,12.3,81.2,50.4
+sll,1.4,Belagavi District,2023,1830,27.9,69.3,96.5
+sll,1.4,Belagavi District,2024,1807,27.9,69.3,96.5
+sll,1.4,Belagavi District,2025,1933,27.9,69.3,96.5
+sll,1.4,Ballari,2023,1386,18.7,103.3,91.8
+sll,1.4,Ballari,2024,1387,18.7,103.3,91.8
+sll,1.4,Ballari,2025,1931,18.7,103.3,91.8
+sll,1.4,Bidar,2023,1224,20.3,56.2,97.3
+sll,1.4,Bidar,2024,874,20.3,56.2,97.3
+sll,1.4,Bidar,2025,1141,20.3,56.2,97.3
+sll,1.4,Vijayapura,2023,1403,28.3,68.6,93.7
+sll,1.4,Vijayapura,2024,1328,28.3,68.6,93.7
+sll,1.4,Vijayapura,2025,1940,28.3,68.6,93.7
+sll,1.4,Chikkaballapura,2023,1223,14.2,110.5,89.2
+sll,1.4,Chikkaballapura,2024,1183,14.2,110.5,89.2
+sll,1.4,Chikkaballapura,2025,1569,14.2,110.5,89.2
+sll,1.4,Chamarajnagar,2023,717,11.0,73.5,96.8
+sll,1.4,Chamarajnagar,2024,728,11.0,73.5,96.8
+sll,1.4,Chamarajnagar,2025,808,11.0,73.5,96.8
+sll,1.4,Chikkamagaluru,2023,1211,11.1,127.6,91.2
+sll,1.4,Chikkamagaluru,2024,1062,11.1,127.6,91.2
+sll,1.4,Chikkamagaluru,2025,1416,11.1,127.6,91.2
+sll,1.4,Chitradurga,2023,1545,18.8,89.4,98.9
+sll,1.4,Chitradurga,2024,1366,18.8,89.4,98.9
+sll,1.4,Chitradurga,2025,1681,18.8,89.4,98.9
+sll,1.4,Dakshina Kannada,2023,375,11.7,35.1,76.0
+sll,1.4,Dakshina Kannada,2024,319,11.7,35.1,76.0
+sll,1.4,Dakshina Kannada,2025,411,11.7,35.1,76.0
+sll,1.4,Davanagere,2023,1170,18.3,73.8,92.0
+sll,1.4,Davanagere,2024,1302,18.3,73.8,92.0
+sll,1.4,Davanagere,2025,1351,18.3,73.8,92.0
+sll,1.4,Dharwad,2023,571,11.0,53.3,86.8
+sll,1.4,Dharwad,2024,543,11.0,53.3,86.8
+sll,1.4,Dharwad,2025,586,11.0,53.3,86.8
+sll,1.4,Gadag,2023,958,12.1,96.0,96.0
+sll,1.4,Gadag,2024,932,12.1,96.0,96.0
+sll,1.4,Gadag,2025,1161,12.1,96.0,96.0
+sll,1.4,Kalaburgi,2023,1114,16.0,60.4,96.7
+sll,1.4,Kalaburgi,2024,919,16.0,60.4,96.7
+sll,1.4,Kalaburgi,2025,966,16.0,60.4,96.7
+sll,1.4,Hassan,2023,1200,18.6,68.8,85.1
+sll,1.4,Hassan,2024,1103,18.6,68.8,85.1
+sll,1.4,Hassan,2025,1280,18.6,68.8,85.1
+sll,1.4,Haveri,2023,885,18.5,58.9,92.5
+sll,1.4,Haveri,2024,1001,18.5,58.9,92.5
+sll,1.4,Haveri,2025,1089,18.5,58.9,92.5
+sll,1.4,Hubballi Dharwad City,2023,1289,11.5,95.0,71.4
+sll,1.4,Hubballi Dharwad City,2024,1109,11.5,95.0,71.4
+sll,1.4,Hubballi Dharwad City,2025,1092,11.5,95.0,71.4
+sll,1.4,KGF,2023,506,8.7,39.7,78.9
+sll,1.4,KGF,2024,342,8.7,39.7,78.9
+sll,1.4,KGF,2025,345,8.7,39.7,78.9
+sll,1.4,Kodagu,2023,535,5.6,102.1,79.3
+sll,1.4,Kodagu,2024,492,5.6,102.1,79.3
+sll,1.4,Kodagu,2025,572,5.6,102.1,79.3
+sll,1.4,Kolar,2023,628,9.0,53.3,98.2
+sll,1.4,Kolar,2024,455,9.0,53.3,98.2
+sll,1.4,Kolar,2025,480,9.0,53.3,98.2
+sll,1.4,Koppal,2023,927,17.2,69.6,99.7
+sll,1.4,Koppal,2024,1021,17.2,69.6,99.7
+sll,1.4,Koppal,2025,1197,17.2,69.6,99.7
+sll,1.4,Mandya,2023,1032,18.7,57.5,92.8
+sll,1.4,Mandya,2024,1156,18.7,57.5,92.8
+sll,1.4,Mandya,2025,1075,18.7,57.5,92.8
+sll,1.4,Mangaluru City,2023,1276,12.2,95.8,89.1
+sll,1.4,Mangaluru City,2024,1644,12.2,95.8,89.1
+sll,1.4,Mangaluru City,2025,1169,12.2,95.8,89.1
+sll,1.4,Mysuru City,2023,716,14.7,69.0,86.2
+sll,1.4,Mysuru City,2024,627,14.7,69.0,86.2
+sll,1.4,Mysuru City,2025,1014,14.7,69.0,86.2
+sll,1.4,Mysuru District,2023,882,21.2,41.0,91.4
+sll,1.4,Mysuru District,2024,735,21.2,41.0,91.4
+sll,1.4,Mysuru District,2025,870,21.2,41.0,91.4
+sll,1.4,Raichur,2023,1445,23.6,56.7,97.8
+sll,1.4,Raichur,2024,1464,23.6,56.7,97.8
+sll,1.4,Raichur,2025,1339,23.6,56.7,97.8
+sll,1.4,KRailways,2023,95,0.0,0.0,68.2
+sll,1.4,KRailways,2024,93,0.0,0.0,68.2
+sll,1.4,KRailways,2025,134,0.0,0.0,68.2
+sll,1.4,Bengaluru South,2023,1089,11.6,76.8,73.8
+sll,1.4,Bengaluru South,2024,805,11.6,76.8,73.8
+sll,1.4,Bengaluru South,2025,891,11.6,76.8,73.8
+sll,1.4,Shimoga,2023,1750,19.2,107.5,93.0
+sll,1.4,Shimoga,2024,1825,19.2,107.5,93.0
+sll,1.4,Shimoga,2025,2064,19.2,107.5,93.0
+sll,1.4,Tumakuru,2023,1809,28.2,85.1,85.8
+sll,1.4,Tumakuru,2024,1862,28.2,85.1,85.8
+sll,1.4,Tumakuru,2025,2401,28.2,85.1,85.8
+sll,1.4,Udupi,2023,877,12.8,54.7,69.3
+sll,1.4,Udupi,2024,645,12.8,54.7,69.3
+sll,1.4,Udupi,2025,700,12.8,54.7,69.3
+sll,1.4,Uttara Kannada,2023,1035,15.6,98.8,95.2
+sll,1.4,Uttara Kannada,2024,906,15.6,98.8,95.2
+sll,1.4,Uttara Kannada,2025,1541,15.6,98.8,95.2
+sll,1.4,Yadgiri,2023,799,15.7,65.2,97.2
+sll,1.4,Yadgiri,2024,898,15.7,65.2,97.2
+sll,1.4,Yadgiri,2025,1023,15.7,65.2,97.2
+sll,1.4,Belagavi City,2023,393,29.1,21.7,87.0
+sll,1.4,Belagavi City,2024,394,29.1,21.7,87.0
+sll,1.4,Belagavi City,2025,632,29.1,21.7,87.0
+sll,1.4,Kalaburgi City,2023,629,16.4,59.1,97.8
+sll,1.4,Kalaburgi City,2024,561,16.4,59.1,97.8
+sll,1.4,Kalaburgi City,2025,970,16.4,59.1,97.8
+sll,1.4,Vijayanagara,2023,1341,16.9,86.2,97.7
+sll,1.4,Vijayanagara,2024,1291,16.9,86.2,97.7
+sll,1.4,Vijayanagara,2025,1457,16.9,86.2,97.7
+sll,1.4,TOTAL_DISTRICTS,2023,65586,764.6,80.7,76.9
+sll,1.4,TOTAL_DISTRICTS,2024,59547,764.6,80.7,76.9
+sll,1.4,TOTAL_DISTRICTS,2025,61736,764.6,80.7,76.9
+violent,2.1,Bagalkot,2023,367,22.8,21.3,76.1
+violent,2.1,Bagalkot,2024,397,22.8,21.3,76.1
+violent,2.1,Bagalkot,2025,486,22.8,21.3,76.1
+violent,2.1,Bengaluru City,2023,3528,165.3,20.6,57.4
+violent,2.1,Bengaluru City,2024,3476,165.3,20.6,57.4
+violent,2.1,Bengaluru City,2025,3400,165.3,20.6,57.4
+violent,2.1,Bengaluru District,2023,903,12.3,54.1,51.3
+violent,2.1,Bengaluru District,2024,1184,12.3,54.1,51.3
+violent,2.1,Bengaluru District,2025,664,12.3,54.1,51.3
+violent,2.1,Belagavi District,2023,884,27.9,30.1,78.6
+violent,2.1,Belagavi District,2024,712,27.9,30.1,78.6
+violent,2.1,Belagavi District,2025,841,27.9,30.1,78.6
+violent,2.1,Ballari,2023,321,18.7,19.9,80.4
+violent,2.1,Ballari,2024,435,18.7,19.9,80.4
+violent,2.1,Ballari,2025,372,18.7,19.9,80.4
+violent,2.1,Bidar,2023,458,20.3,20.9,81.1
+violent,2.1,Bidar,2024,629,20.3,20.9,81.1
+violent,2.1,Bidar,2025,424,20.3,20.9,81.1
+violent,2.1,Vijayapura,2023,619,28.3,25.8,79.9
+violent,2.1,Vijayapura,2024,707,28.3,25.8,79.9
+violent,2.1,Vijayapura,2025,730,28.3,25.8,79.9
+violent,2.1,Chikkaballapura,2023,409,14.2,28.8,83.8
+violent,2.1,Chikkaballapura,2024,379,14.2,28.8,83.8
+violent,2.1,Chikkaballapura,2025,409,14.2,28.8,83.8
+violent,2.1,Chamarajnagar,2023,302,11.0,53.4,89.9
+violent,2.1,Chamarajnagar,2024,375,11.0,53.4,89.9
+violent,2.1,Chamarajnagar,2025,589,11.0,53.4,89.9
+violent,2.1,Chikkamagaluru,2023,313,11.1,32.4,73.7
+violent,2.1,Chikkamagaluru,2024,286,11.1,32.4,73.7
+violent,2.1,Chikkamagaluru,2025,361,11.1,32.4,73.7
+violent,2.1,Chitradurga,2023,599,18.8,32.1,77.1
+violent,2.1,Chitradurga,2024,577,18.8,32.1,77.1
+violent,2.1,Chitradurga,2025,604,18.8,32.1,77.1
+violent,2.1,Dakshina Kannada,2023,166,11.7,10.1,70.7
+violent,2.1,Dakshina Kannada,2024,151,11.7,10.1,70.7
+violent,2.1,Dakshina Kannada,2025,118,11.7,10.1,70.7
+violent,2.1,Davanagere,2023,601,18.3,31.3,68.3
+violent,2.1,Davanagere,2024,514,18.3,31.3,68.3
+violent,2.1,Davanagere,2025,572,18.3,31.3,68.3
+violent,2.1,Dharwad,2023,186,11.0,17.3,74.3
+violent,2.1,Dharwad,2024,197,11.0,17.3,74.3
+violent,2.1,Dharwad,2025,190,11.0,17.3,74.3
+violent,2.1,Gadag,2023,247,12.1,18.1,75.9
+violent,2.1,Gadag,2024,253,12.1,18.1,75.9
+violent,2.1,Gadag,2025,219,12.1,18.1,75.9
+violent,2.1,Kalaburgi,2023,432,16.0,43.9,82.3
+violent,2.1,Kalaburgi,2024,585,16.0,43.9,82.3
+violent,2.1,Kalaburgi,2025,701,16.0,43.9,82.3
+violent,2.1,Hassan,2023,584,16.4,34.8,62.0
+violent,2.1,Hassan,2024,940,16.4,34.8,62.0
+violent,2.1,Hassan,2025,570,16.4,34.8,62.0
+violent,2.1,Haveri,2023,530,18.6,28.2,75.2
+violent,2.1,Haveri,2024,435,18.6,28.2,75.2
+violent,2.1,Haveri,2025,523,18.6,28.2,75.2
+violent,2.1,Hubballi Dharwad City,2023,270,18.5,21.2,75.4
+violent,2.1,Hubballi Dharwad City,2024,450,18.5,21.2,75.4
+violent,2.1,Hubballi Dharwad City,2025,392,18.5,21.2,75.4
+violent,2.1,KGF,2023,115,11.5,23.6,84.0
+violent,2.1,KGF,2024,133,11.5,23.6,84.0
+violent,2.1,KGF,2025,271,11.5,23.6,84.0
+violent,2.1,Kodagu,2023,181,8.7,28.9,69.3
+violent,2.1,Kodagu,2024,280,8.7,28.9,69.3
+violent,2.1,Kodagu,2025,252,8.7,28.9,69.3
+violent,2.1,Kolar,2023,445,5.6,77.4,81.6
+violent,2.1,Kolar,2024,399,5.6,77.4,81.6
+violent,2.1,Kolar,2025,436,5.6,77.4,81.6
+violent,2.1,Koppal,2023,311,9.0,32.2,77.0
+violent,2.1,Koppal,2024,295,9.0,32.2,77.0
+violent,2.1,Koppal,2025,290,9.0,32.2,77.0
+violent,2.1,Mandya,2023,453,17.2,27.6,67.1
+violent,2.1,Mandya,2024,767,17.2,27.6,67.1
+violent,2.1,Mandya,2025,473,17.2,27.6,67.1
+violent,2.1,Mangaluru City,2023,187,18.7,16.4,76.4
+violent,2.1,Mangaluru City,2024,274,18.7,16.4,76.4
+violent,2.1,Mangaluru City,2025,307,18.7,16.4,76.4
+violent,2.1,Mysuru City,2023,237,12.2,43.4,72.5
+violent,2.1,Mysuru City,2024,326,12.2,43.4,72.5
+violent,2.1,Mysuru City,2025,529,12.2,43.4,72.5
+violent,2.1,Mysuru District,2023,423,14.7,38.3,73.1
+violent,2.1,Mysuru District,2024,869,14.7,38.3,73.1
+violent,2.1,Mysuru District,2025,563,14.7,38.3,73.1
+violent,2.1,Raichur,2023,526,21.2,31.8,84.5
+violent,2.1,Raichur,2024,681,21.2,31.8,84.5
+violent,2.1,Raichur,2025,674,21.2,31.8,84.5
+violent,2.1,KRailways,2023,54,23.6,0.0,61.7
+violent,2.1,KRailways,2024,61,23.6,0.0,61.7
+violent,2.1,KRailways,2025,69,23.6,0.0,61.7
+violent,2.1,Bengaluru South,2023,485,0.0,0.0,66.4
+violent,2.1,Bengaluru South,2024,844,0.0,0.0,66.4
+violent,2.1,Bengaluru South,2025,472,0.0,0.0,66.4
+violent,2.1,Shimoga,2023,626,11.6,134.6,81.9
+violent,2.1,Shimoga,2024,956,11.6,134.6,81.9
+violent,2.1,Shimoga,2025,1561,11.6,134.6,81.9
+violent,2.1,Tumakuru,2023,594,19.2,70.7,78.8
+violent,2.1,Tumakuru,2024,1102,19.2,70.7,78.8
+violent,2.1,Tumakuru,2025,1358,19.2,70.7,78.8
+violent,2.1,Udupi,2023,165,28.2,6.5,69.8
+violent,2.1,Udupi,2024,196,28.2,6.5,69.8
+violent,2.1,Udupi,2025,184,28.2,6.5,69.8
+violent,2.1,Uttara Kannada,2023,262,12.7,47.1,79.9
+violent,2.1,Uttara Kannada,2024,291,12.7,47.1,79.9
+violent,2.1,Uttara Kannada,2025,600,12.7,47.1,79.9
+violent,2.1,Yadgiri,2023,239,15.6,35.2,80.6
+violent,2.1,Yadgiri,2024,441,15.6,35.2,80.6
+violent,2.1,Yadgiri,2025,550,15.6,35.2,80.6
+violent,2.1,Belagavi City,2023,251,15.7,17.3,77.9
+violent,2.1,Belagavi City,2024,300,15.7,17.3,77.9
+violent,2.1,Belagavi City,2025,271,15.7,17.3,77.9
+violent,2.1,Kalaburgi City,2023,350,16.9,17.8,73.9
+violent,2.1,Kalaburgi City,2024,355,16.9,17.8,73.9
+violent,2.1,Kalaburgi City,2025,300,16.9,17.8,73.9
+violent,2.1,Vijayanagara,2023,279,29.1,10.4,73.9
+violent,2.1,Vijayanagara,2024,278,29.1,10.4,73.9
+violent,2.1,Vijayanagara,2025,302,29.1,10.4,73.9
+violent,2.1,TOTAL_DISTRICTS,2023,17902,764.59,28.29,73.4
+violent,2.1,TOTAL_DISTRICTS,2024,21530,764.59,28.29,73.4
+violent,2.1,TOTAL_DISTRICTS,2025,21627,764.59,28.29,73.4
+murder,2A.1,Bagalkot,2023,35,22.8,1.5,80.0
+murder,2A.1,Bagalkot,2024,22,22.8,1.5,80.0
+murder,2A.1,Bagalkot,2025,35,22.8,1.5,80.0
+murder,2A.1,Bengaluru City,2023,206,165.3,1.2,93.3
+murder,2A.1,Bengaluru City,2024,176,165.3,1.2,93.3
+murder,2A.1,Bengaluru City,2025,199,165.3,1.2,93.3
+murder,2A.1,Bengaluru District,2023,64,12.3,4.5,95.9
+murder,2A.1,Bengaluru District,2024,71,12.3,4.5,95.9
+murder,2A.1,Bengaluru District,2025,55,12.3,4.5,95.9
+murder,2A.1,Belagavi District,2023,72,27.9,2.5,85.7
+murder,2A.1,Belagavi District,2024,71,27.9,2.5,85.7
+murder,2A.1,Belagavi District,2025,70,27.9,2.5,85.7
+murder,2A.1,Ballari,2023,18,18.7,1.3,96.0
+murder,2A.1,Ballari,2024,18,18.7,1.3,96.0
+murder,2A.1,Ballari,2025,25,18.7,1.3,96.0
+murder,2A.1,Bidar,2023,41,20.3,1.5,96.4
+murder,2A.1,Bidar,2024,31,20.3,1.5,96.4
+murder,2A.1,Bidar,2025,31,20.3,1.5,96.4
+murder,2A.1,Vijayapura,2023,59,28.3,2.5,91.7
+murder,2A.1,Vijayapura,2024,65,28.3,2.5,91.7
+murder,2A.1,Vijayapura,2025,71,28.3,2.5,91.7
+murder,2A.1,Chikkaballapura,2023,24,14.2,2.3,84.8
+murder,2A.1,Chikkaballapura,2024,27,14.2,2.3,84.8
+murder,2A.1,Chikkaballapura,2025,33,14.2,2.3,84.8
+murder,2A.1,Chamarajnagar,2023,20,11.0,2.8,96.0
+murder,2A.1,Chamarajnagar,2024,12,11.0,2.8,96.0
+murder,2A.1,Chamarajnagar,2025,31,11.0,2.8,96.0
+murder,2A.1,Chikkamagaluru,2023,32,11.1,2.8,96.9
+murder,2A.1,Chikkamagaluru,2024,31,11.1,2.8,96.9
+murder,2A.1,Chikkamagaluru,2025,31,11.1,2.8,96.9
+murder,2A.1,Chitradurga,2023,32,18.8,1.2,78.1
+murder,2A.1,Chitradurga,2024,31,18.8,1.2,78.1
+murder,2A.1,Chitradurga,2025,23,18.8,1.2,78.1
+murder,2A.1,Dakshina Kannada,2023,11,11.7,0.6,100.0
+murder,2A.1,Dakshina Kannada,2024,13,11.7,0.6,100.0
+murder,2A.1,Dakshina Kannada,2025,7,11.7,0.6,100.0
+murder,2A.1,Davanagere,2023,20,18.3,0.9,88.2
+murder,2A.1,Davanagere,2024,27,18.3,0.9,88.2
+murder,2A.1,Davanagere,2025,16,18.3,0.9,88.2
+murder,2A.1,Dharwad,2023,19,11.0,2.1,91.3
+murder,2A.1,Dharwad,2024,20,11.0,2.1,91.3
+murder,2A.1,Dharwad,2025,23,11.0,2.1,91.3
+murder,2A.1,Gadag,2023,16,12.1,0.7,83.3
+murder,2A.1,Gadag,2024,17,12.1,0.7,83.3
+murder,2A.1,Gadag,2025,9,12.1,0.7,83.3
+murder,2A.1,Kalaburgi,2023,57,16.0,2.3,89.7
+murder,2A.1,Kalaburgi,2024,31,16.0,2.3,89.7
+murder,2A.1,Kalaburgi,2025,36,16.0,2.3,89.7
+murder,2A.1,Hassan,2023,38,18.6,2.1,86.1
+murder,2A.1,Hassan,2024,45,18.6,2.1,86.1
+murder,2A.1,Hassan,2025,39,18.6,2.1,86.1
+murder,2A.1,Haveri,2023,12,18.5,1.4,84.0
+murder,2A.1,Haveri,2024,22,18.5,1.4,84.0
+murder,2A.1,Haveri,2025,26,18.5,1.4,84.0
+murder,2A.1,Hubballi Dharwad City,2023,25,11.5,1.0,90.9
+murder,2A.1,Hubballi Dharwad City,2024,24,11.5,1.0,90.9
+murder,2A.1,Hubballi Dharwad City,2025,11,11.5,1.0,90.9
+murder,2A.1,KGF,2023,12,8.7,1.1,93.3
+murder,2A.1,KGF,2024,12,8.7,1.1,93.3
+murder,2A.1,KGF,2025,10,8.7,1.1,93.3
+murder,2A.1,Kodagu,2023,28,5.6,2.9,89.5
+murder,2A.1,Kodagu,2024,23,5.6,2.9,89.5
+murder,2A.1,Kodagu,2025,16,5.6,2.9,89.5
+murder,2A.1,Kolar,2023,43,9.0,2.9,100.0
+murder,2A.1,Kolar,2024,28,9.0,2.9,100.0
+murder,2A.1,Kolar,2025,26,9.0,2.9,100.0
+murder,2A.1,Koppal,2023,26,17.2,1.2,93.3
+murder,2A.1,Koppal,2024,19,17.2,1.2,93.3
+murder,2A.1,Koppal,2025,21,17.2,1.2,93.3
+murder,2A.1,Mandya,2023,45,18.7,2.0,96.8
+murder,2A.1,Mandya,2024,27,18.7,2.0,96.8
+murder,2A.1,Mandya,2025,38,18.7,2.0,96.8
+murder,2A.1,Mangaluru City,2023,19,12.2,1.1,80.0
+murder,2A.1,Mangaluru City,2024,10,12.2,1.1,80.0
+murder,2A.1,Mangaluru City,2025,14,12.2,1.1,80.0
+murder,2A.1,Mysuru City,2023,30,14.7,1.2,76.5
+murder,2A.1,Mysuru City,2024,22,14.7,1.2,76.5
+murder,2A.1,Mysuru City,2025,18,14.7,1.2,76.5
+murder,2A.1,Mysuru District,2023,30,21.2,2.1,78.0
+murder,2A.1,Mysuru District,2024,49,21.2,2.1,78.0
+murder,2A.1,Mysuru District,2025,45,21.2,2.1,78.0
+murder,2A.1,Raichur,2023,45,23.6,1.6,94.3
+murder,2A.1,Raichur,2024,39,23.6,1.6,94.3
+murder,2A.1,Raichur,2025,37,23.6,1.6,94.3
+murder,2A.1,KRailways,2023,8,0.0,0.0,83.3
+murder,2A.1,KRailways,2024,13,0.0,0.0,83.3
+murder,2A.1,KRailways,2025,15,0.0,0.0,83.3
+murder,2A.1,Bengaluru South,2023,37,11.6,3.2,81.8
+murder,2A.1,Bengaluru South,2024,39,11.6,3.2,81.8
+murder,2A.1,Bengaluru South,2025,37,11.6,3.2,81.8
+murder,2A.1,Shimoga,2023,38,19.2,1.9,91.9
+murder,2A.1,Shimoga,2024,36,19.2,1.9,91.9
+murder,2A.1,Shimoga,2025,37,19.2,1.9,91.9
+murder,2A.1,Tumakuru,2023,53,28.2,1.3,100.0
+murder,2A.1,Tumakuru,2024,52,28.2,1.3,100.0
+murder,2A.1,Tumakuru,2025,38,28.2,1.3,100.0
+murder,2A.1,Udupi,2023,12,12.8,0.9,100.0
+murder,2A.1,Udupi,2024,6,12.8,0.9,100.0
+murder,2A.1,Udupi,2025,11,12.8,0.9,100.0
+murder,2A.1,Uttara Kannada,2023,14,15.6,1.1,86.7
+murder,2A.1,Uttara Kannada,2024,17,15.6,1.1,86.7
+murder,2A.1,Uttara Kannada,2025,17,15.6,1.1,86.7
+murder,2A.1,Yadgiri,2023,15,15.7,1.3,90.5
+murder,2A.1,Yadgiri,2024,21,15.7,1.3,90.5
+murder,2A.1,Yadgiri,2025,20,15.7,1.3,90.5
+murder,2A.1,Belagavi City,2023,19,29.1,0.6,88.5
+murder,2A.1,Belagavi City,2024,15,29.1,0.6,88.5
+murder,2A.1,Belagavi City,2025,18,29.1,0.6,88.5
+murder,2A.1,Kalaburgi City,2023,28,16.4,1.8,90.0
+murder,2A.1,Kalaburgi City,2024,25,16.4,1.8,90.0
+murder,2A.1,Kalaburgi City,2025,30,16.4,1.8,90.0
+murder,2A.1,Vijayanagara,2023,19,16.9,0.8,100.0
+murder,2A.1,Vijayanagara,2024,21,16.9,0.8,100.0
+murder,2A.1,Vijayanagara,2025,14,16.9,0.8,100.0
+murder,2A.1,TOTAL_DISTRICTS,2023,1322,764.6,1.6,90.1
+murder,2A.1,TOTAL_DISTRICTS,2024,1228,764.6,1.6,90.1
+murder,2A.1,TOTAL_DISTRICTS,2025,1233,764.6,1.6,90.1
+crime_against_women,3.1,Bagalkot,2023,347,11.3,30.3,75.7
+crime_against_women,3.1,Bagalkot,2024,340,11.3,30.3,75.7
+crime_against_women,3.1,Bagalkot,2025,342,11.3,30.3,75.7
+crime_against_women,3.1,Bengaluru City,2023,4870,79.0,62.3,70.0
+crime_against_women,3.1,Bengaluru City,2024,4748,79.0,62.3,70.0
+crime_against_women,3.1,Bengaluru City,2025,4922,79.0,62.3,70.0
+crime_against_women,3.1,Bengaluru District,2023,797,6.0,110.3,62.6
+crime_against_women,3.1,Bengaluru District,2024,855,6.0,110.3,62.6
+crime_against_women,3.1,Bengaluru District,2025,662,6.0,110.3,62.6
+crime_against_women,3.1,Belagavi District,2023,677,13.8,42.2,87.8
+crime_against_women,3.1,Belagavi District,2024,605,13.8,42.2,87.8
+crime_against_women,3.1,Belagavi District,2025,583,13.8,42.2,87.8
+crime_against_women,3.1,Ballari,2023,331,9.3,41.7,80.1
+crime_against_women,3.1,Ballari,2024,319,9.3,41.7,80.1
+crime_against_women,3.1,Ballari,2025,388,9.3,41.7,80.1
+crime_against_women,3.1,Bidar,2023,302,9.9,30.8,86.4
+crime_against_women,3.1,Bidar,2024,312,9.9,30.8,86.4
+crime_against_women,3.1,Bidar,2025,305,9.9,30.8,86.4
+crime_against_women,3.1,Vijayapura,2023,476,13.8,38.3,78.0
+crime_against_women,3.1,Vijayapura,2024,440,13.8,38.3,78.0
+crime_against_women,3.1,Vijayapura,2025,529,13.8,38.3,78.0
+crime_against_women,3.1,Chikkaballapura,2023,406,7.0,62.7,90.7
+crime_against_women,3.1,Chikkaballapura,2024,459,7.0,62.7,90.7
+crime_against_women,3.1,Chikkaballapura,2025,439,7.0,62.7,90.7
+crime_against_women,3.1,Chamarajnagar,2023,359,5.5,73.6,92.1
+crime_against_women,3.1,Chamarajnagar,2024,374,5.5,73.6,92.1
+crime_against_women,3.1,Chamarajnagar,2025,405,5.5,73.6,92.1
+crime_against_women,3.1,Chikkamagaluru,2023,489,5.6,86.8,87.7
+crime_against_women,3.1,Chikkamagaluru,2024,454,5.6,86.8,87.7
+crime_against_women,3.1,Chikkamagaluru,2025,486,5.6,86.8,87.7
+crime_against_women,3.1,Chitradurga,2023,703,9.3,86.1,80.6
+crime_against_women,3.1,Chitradurga,2024,784,9.3,86.1,80.6
+crime_against_women,3.1,Chitradurga,2025,801,9.3,86.1,80.6
+crime_against_women,3.1,Dakshina Kannada,2023,225,5.9,34.4,86.7
+crime_against_women,3.1,Dakshina Kannada,2024,213,5.9,34.4,86.7
+crime_against_women,3.1,Dakshina Kannada,2025,203,5.9,34.4,86.7
+crime_against_women,3.1,Davanagere,2023,629,9.0,59.0,90.5
+crime_against_women,3.1,Davanagere,2024,605,9.0,59.0,90.5
+crime_against_women,3.1,Davanagere,2025,531,9.0,59.0,90.5
+crime_against_women,3.1,Dharwad,2023,153,5.4,24.1,73.0
+crime_against_women,3.1,Dharwad,2024,138,5.4,24.1,73.0
+crime_against_women,3.1,Dharwad,2025,130,5.4,24.1,73.0
+crime_against_women,3.1,Gadag,2023,206,6.0,31.0,81.4
+crime_against_women,3.1,Gadag,2024,159,6.0,31.0,81.4
+crime_against_women,3.1,Gadag,2025,186,6.0,31.0,81.4
+crime_against_women,3.1,Kalaburgi,2023,343,7.9,54.9,83.6
+crime_against_women,3.1,Kalaburgi,2024,360,7.9,54.9,83.6
+crime_against_women,3.1,Kalaburgi,2025,434,7.9,54.9,83.6
+crime_against_women,3.1,Hassan,2023,741,9.3,76.1,78.1
+crime_against_women,3.1,Hassan,2024,689,9.3,76.1,78.1
+crime_against_women,3.1,Hassan,2025,708,9.3,76.1,78.1
+crime_against_women,3.1,Haveri,2023,321,9.0,41.3,82.3
+crime_against_women,3.1,Haveri,2024,367,9.0,41.3,82.3
+crime_against_women,3.1,Haveri,2025,372,9.0,41.3,82.3
+crime_against_women,3.1,Hubballi Dharwad City,2023,265,5.7,46.5,69.8
+crime_against_women,3.1,Hubballi Dharwad City,2024,318,5.7,46.5,69.8
+crime_against_women,3.1,Hubballi Dharwad City,2025,265,5.7,46.5,69.8
+crime_against_women,3.1,KGF,2023,144,4.3,27.2,87.1
+crime_against_women,3.1,KGF,2024,159,4.3,27.2,87.1
+crime_against_women,3.1,KGF,2025,117,4.3,27.2,87.1
+crime_against_women,3.1,Kodagu,2023,219,2.8,88.2,77.9
+crime_against_women,3.1,Kodagu,2024,215,2.8,88.2,77.9
+crime_against_women,3.1,Kodagu,2025,247,2.8,88.2,77.9
+crime_against_women,3.1,Kolar,2023,367,4.5,85.8,85.1
+crime_against_women,3.1,Kolar,2024,339,4.5,85.8,85.1
+crime_against_women,3.1,Kolar,2025,386,4.5,85.8,85.1
+crime_against_women,3.1,Koppal,2023,261,8.5,39.2,84.3
+crime_against_women,3.1,Koppal,2024,288,8.5,39.2,84.3
+crime_against_women,3.1,Koppal,2025,333,8.5,39.2,84.3
+crime_against_women,3.1,Mandya,2023,694,9.3,71.8,82.8
+crime_against_women,3.1,Mandya,2024,606,9.3,71.8,82.8
+crime_against_women,3.1,Mandya,2025,668,9.3,71.8,82.8
+crime_against_women,3.1,Mangaluru City,2023,270,6.2,43.4,82.8
+crime_against_women,3.1,Mangaluru City,2024,280,6.2,43.4,82.8
+crime_against_women,3.1,Mangaluru City,2025,269,6.2,43.4,82.8
+crime_against_women,3.1,Mysuru City,2023,458,7.3,40.1,87.9
+crime_against_women,3.1,Mysuru City,2024,363,7.3,40.1,87.9
+crime_against_women,3.1,Mysuru City,2025,293,7.3,40.1,87.9
+crime_against_women,3.1,Mysuru District,2023,620,10.5,64.5,77.1
+crime_against_women,3.1,Mysuru District,2024,602,10.5,64.5,77.1
+crime_against_women,3.1,Mysuru District,2025,677,10.5,64.5,77.1
+crime_against_women,3.1,Raichur,2023,514,11.8,45.1,85.6
+crime_against_women,3.1,Raichur,2024,523,11.8,45.1,85.6
+crime_against_women,3.1,Raichur,2025,532,11.8,45.1,85.6
+crime_against_women,3.1,KRailways,2023,20,0.0,0.0,50.0
+crime_against_women,3.1,KRailways,2024,18,0.0,0.0,50.0
+crime_against_women,3.1,KRailways,2025,14,0.0,0.0,50.0
+crime_against_women,3.1,Bengaluru South,2023,594,5.7,93.9,67.0
+crime_against_women,3.1,Bengaluru South,2024,526,5.7,93.9,67.0
+crime_against_women,3.1,Bengaluru South,2025,535,5.7,93.9,67.0
+crime_against_women,3.1,Shimoga,2023,905,9.6,88.9,83.5
+crime_against_women,3.1,Shimoga,2024,817,9.6,88.9,83.5
+crime_against_women,3.1,Shimoga,2025,853,9.6,88.9,83.5
+crime_against_women,3.1,Tumakuru,2023,890,14.0,71.6,79.0
+crime_against_women,3.1,Tumakuru,2024,858,14.0,71.6,79.0
+crime_against_women,3.1,Tumakuru,2025,1002,14.0,71.6,79.0
+crime_against_women,3.1,Udupi,2023,236,6.7,26.9,75.6
+crime_against_women,3.1,Udupi,2024,248,6.7,26.9,75.6
+crime_against_women,3.1,Udupi,2025,180,6.7,26.9,75.6
+crime_against_women,3.1,Uttara Kannada,2023,401,7.7,54.0,78.6
+crime_against_women,3.1,Uttara Kannada,2024,442,7.7,54.0,78.6
+crime_against_women,3.1,Uttara Kannada,2025,416,7.7,54.0,78.6
+crime_against_women,3.1,Yadgiri,2023,224,7.8,43.6,84.4
+crime_against_women,3.1,Yadgiri,2024,301,7.8,43.6,84.4
+crime_against_women,3.1,Yadgiri,2025,340,7.8,43.6,84.4
+crime_against_women,3.1,Belagavi City,2023,198,14.3,16.4,75.4
+crime_against_women,3.1,Belagavi City,2024,223,14.3,16.4,75.4
+crime_against_women,3.1,Belagavi City,2025,235,14.3,16.4,75.4
+crime_against_women,3.1,Kalaburgi City,2023,294,8.1,35.8,88.5
+crime_against_women,3.1,Kalaburgi City,2024,263,8.1,35.8,88.5
+crime_against_women,3.1,Kalaburgi City,2025,290,8.1,35.8,88.5
+crime_against_women,3.1,Vijayanagara,2023,387,8.4,44.5,80.2
+crime_against_women,3.1,Vijayanagara,2024,336,8.4,44.5,80.2
+crime_against_women,3.1,Vijayanagara,2025,374,8.4,44.5,80.2
+crime_against_women,3.1,TOTAL_DISTRICTS,2023,20336,376.1,54.4,78.7
+crime_against_women,3.1,TOTAL_DISTRICTS,2024,19946,376.1,54.4,78.7
+crime_against_women,3.1,TOTAL_DISTRICTS,2025,20452,376.1,54.4,78.7
+crime_senior_citizens,6.1,Bagalkot,2023,0,2.5,16.0,76.7
+crime_senior_citizens,6.1,Bagalkot,2024,54,2.5,16.0,76.7
+crime_senior_citizens,6.1,Bagalkot,2025,40,2.5,16.0,76.7
+crime_senior_citizens,6.1,Bengaluru City,2023,649,12.9,67.4,60.0
+crime_senior_citizens,6.1,Bengaluru City,2024,660,12.9,67.4,60.0
+crime_senior_citizens,6.1,Bengaluru City,2025,870,12.9,67.4,60.0
+crime_senior_citizens,6.1,Bengaluru District,2023,7,1.4,87.9,87.5
+crime_senior_citizens,6.1,Bengaluru District,2024,0,1.4,87.9,87.5
+crime_senior_citizens,6.1,Bengaluru District,2025,123,1.4,87.9,87.5
+crime_senior_citizens,6.1,Belagavi District,2023,24,3.6,21.9,50.0
+crime_senior_citizens,6.1,Belagavi District,2024,107,3.6,21.9,50.0
+crime_senior_citizens,6.1,Belagavi District,2025,79,3.6,21.9,50.0
+crime_senior_citizens,6.1,Ballari,2023,2,1.8,36.1,58.6
+crime_senior_citizens,6.1,Ballari,2024,14,1.8,36.1,58.6
+crime_senior_citizens,6.1,Ballari,2025,65,1.8,36.1,58.6
+crime_senior_citizens,6.1,Bidar,2023,38,2.5,52.0,95.6
+crime_senior_citizens,6.1,Bidar,2024,200,2.5,52.0,95.6
+crime_senior_citizens,6.1,Bidar,2025,130,2.5,52.0,95.6
+crime_senior_citizens,6.1,Vijayapura,2023,7,3.0,39.3,100.0
+crime_senior_citizens,6.1,Vijayapura,2024,227,3.0,39.3,100.0
+crime_senior_citizens,6.1,Vijayapura,2025,118,3.0,39.3,100.0
+crime_senior_citizens,6.1,Chikkaballapura,2023,144,1.8,220.6,89.2
+crime_senior_citizens,6.1,Chikkaballapura,2024,106,1.8,220.6,89.2
+crime_senior_citizens,6.1,Chikkaballapura,2025,397,1.8,220.6,89.2
+crime_senior_citizens,6.1,Chamarajnagar,2023,3,1.6,61.3,87.3
+crime_senior_citizens,6.1,Chamarajnagar,2024,108,1.6,61.3,87.3
+crime_senior_citizens,6.1,Chamarajnagar,2025,98,1.6,61.3,87.3
+crime_senior_citizens,6.1,Chikkamagaluru,2023,21,1.6,48.1,94.0
+crime_senior_citizens,6.1,Chikkamagaluru,2024,61,1.6,48.1,94.0
+crime_senior_citizens,6.1,Chikkamagaluru,2025,77,1.6,48.1,94.0
+crime_senior_citizens,6.1,Chitradurga,2023,4,2.3,13.0,40.0
+crime_senior_citizens,6.1,Chitradurga,2024,54,2.3,13.0,40.0
+crime_senior_citizens,6.1,Chitradurga,2025,30,2.3,13.0,40.0
+crime_senior_citizens,6.1,Dakshina Kannada,2023,14,1.3,37.7,86.7
+crime_senior_citizens,6.1,Dakshina Kannada,2024,50,1.3,37.7,86.7
+crime_senior_citizens,6.1,Dakshina Kannada,2025,49,1.3,37.7,86.7
+crime_senior_citizens,6.1,Davanagere,2023,10,1.8,10.0,56.5
+crime_senior_citizens,6.1,Davanagere,2024,54,1.8,10.0,56.5
+crime_senior_citizens,6.1,Davanagere,2025,18,1.8,10.0,56.5
+crime_senior_citizens,6.1,Dharwad,2023,39,1.3,25.4,73.8
+crime_senior_citizens,6.1,Dharwad,2024,93,1.3,25.4,73.8
+crime_senior_citizens,6.1,Dharwad,2025,33,1.3,25.4,73.8
+crime_senior_citizens,6.1,Gadag,2023,4,1.4,32.9,77.8
+crime_senior_citizens,6.1,Gadag,2024,49,1.4,32.9,77.8
+crime_senior_citizens,6.1,Gadag,2025,46,1.4,32.9,77.8
+crime_senior_citizens,6.1,Kalaburgi,2023,7,1.2,56.7,80.4
+crime_senior_citizens,6.1,Kalaburgi,2024,72,1.2,56.7,80.4
+crime_senior_citizens,6.1,Kalaburgi,2025,68,1.2,56.7,80.4
+crime_senior_citizens,6.1,Hassan,2023,6,3.0,46.7,68.1
+crime_senior_citizens,6.1,Hassan,2024,44,3.0,46.7,68.1
+crime_senior_citizens,6.1,Hassan,2025,140,3.0,46.7,68.1
+crime_senior_citizens,6.1,Haveri,2023,1,2.0,1.5,100.0
+crime_senior_citizens,6.1,Haveri,2024,0,2.0,1.5,100.0
+crime_senior_citizens,6.1,Haveri,2025,3,2.0,1.5,100.0
+crime_senior_citizens,6.1,Hubballi Dharwad City,2023,5,1.3,16.2,46.2
+crime_senior_citizens,6.1,Hubballi Dharwad City,2024,51,1.3,16.2,46.2
+crime_senior_citizens,6.1,Hubballi Dharwad City,2025,21,1.3,16.2,46.2
+crime_senior_citizens,6.1,KGF,2023,45,1.0,22.0,88.9
+crime_senior_citizens,6.1,KGF,2024,38,1.0,22.0,88.9
+crime_senior_citizens,6.1,KGF,2025,22,1.0,22.0,88.9
+crime_senior_citizens,6.1,Kodagu,2023,3,0.8,100.0,79.6
+crime_senior_citizens,6.1,Kodagu,2024,37,0.8,100.0,79.6
+crime_senior_citizens,6.1,Kodagu,2025,80,0.8,100.0,79.6
+crime_senior_citizens,6.1,Kolar,2023,106,1.1,124.5,91.3
+crime_senior_citizens,6.1,Kolar,2024,280,1.1,124.5,91.3
+crime_senior_citizens,6.1,Kolar,2025,137,1.1,124.5,91.3
+crime_senior_citizens,6.1,Koppal,2023,149,1.7,47.1,89.9
+crime_senior_citizens,6.1,Koppal,2024,160,1.7,47.1,89.9
+crime_senior_citizens,6.1,Koppal,2025,80,1.7,47.1,89.9
+crime_senior_citizens,6.1,Mandya,2023,0,2.8,47.9,86.2
+crime_senior_citizens,6.1,Mandya,2024,105,2.8,47.9,86.2
+crime_senior_citizens,6.1,Mandya,2025,134,2.8,47.9,86.2
+crime_senior_citizens,6.1,Mangaluru City,2023,16,1.4,93.6,86.5
+crime_senior_citizens,6.1,Mangaluru City,2024,24,1.4,93.6,86.5
+crime_senior_citizens,6.1,Mangaluru City,2025,131,1.4,93.6,86.5
+crime_senior_citizens,6.1,Mysuru City,2023,72,1.8,146.1,87.5
+crime_senior_citizens,6.1,Mysuru City,2024,278,1.8,146.1,87.5
+crime_senior_citizens,6.1,Mysuru City,2025,263,1.8,146.1,87.5
+crime_senior_citizens,6.1,Mysuru District,2023,199,2.5,48.0,80.3
+crime_senior_citizens,6.1,Mysuru District,2024,94,2.5,48.0,80.3
+crime_senior_citizens,6.1,Mysuru District,2025,120,2.5,48.0,80.3
+crime_senior_citizens,6.1,Raichur,2023,6,1.8,12.8,79.2
+crime_senior_citizens,6.1,Raichur,2024,80,1.8,12.8,79.2
+crime_senior_citizens,6.1,Raichur,2025,23,1.8,12.8,79.2
+crime_senior_citizens,6.1,KRailways,2023,0,0.0,0.0,
+crime_senior_citizens,6.1,KRailways,2024,0,0.0,0.0,
+crime_senior_citizens,6.1,KRailways,2025,0,0.0,0.0,
+crime_senior_citizens,6.1,Bengaluru South,2023,11,1.9,50.0,87.3
+crime_senior_citizens,6.1,Bengaluru South,2024,132,1.9,50.0,87.3
+crime_senior_citizens,6.1,Bengaluru South,2025,95,1.9,50.0,87.3
+crime_senior_citizens,6.1,Shimoga,2023,17,2.3,65.7,73.5
+crime_senior_citizens,6.1,Shimoga,2024,556,2.3,65.7,73.5
+crime_senior_citizens,6.1,Shimoga,2025,151,2.3,65.7,73.5
+crime_senior_citizens,6.1,Tumakuru,2023,70,4.3,57.0,66.7
+crime_senior_citizens,6.1,Tumakuru,2024,48,4.3,57.0,66.7
+crime_senior_citizens,6.1,Tumakuru,2025,245,4.3,57.0,66.7
+crime_senior_citizens,6.1,Udupi,2023,19,2.0,33.5,76.9
+crime_senior_citizens,6.1,Udupi,2024,48,2.0,33.5,76.9
+crime_senior_citizens,6.1,Udupi,2025,67,2.0,33.5,76.9
+crime_senior_citizens,6.1,Uttara Kannada,2023,48,2.0,39.5,96.1
+crime_senior_citizens,6.1,Uttara Kannada,2024,55,2.0,39.5,96.1
+crime_senior_citizens,6.1,Uttara Kannada,2025,79,2.0,39.5,96.1
+crime_senior_citizens,6.1,Yadgiri,2023,10,1.2,18.3,83.3
+crime_senior_citizens,6.1,Yadgiri,2024,18,1.2,18.3,83.3
+crime_senior_citizens,6.1,Yadgiri,2025,22,1.2,18.3,83.3
+crime_senior_citizens,6.1,Belagavi City,2023,83,3.7,23.2,63.6
+crime_senior_citizens,6.1,Belagavi City,2024,191,3.7,23.2,63.6
+crime_senior_citizens,6.1,Belagavi City,2025,86,3.7,23.2,63.6
+crime_senior_citizens,6.1,Kalaburgi City,2023,0,1.2,28.3,93.9
+crime_senior_citizens,6.1,Kalaburgi City,2024,97,1.2,28.3,93.9
+crime_senior_citizens,6.1,Kalaburgi City,2025,34,1.2,28.3,93.9
+crime_senior_citizens,6.1,Vijayanagara,2023,1,1.6,15.6,64.3
+crime_senior_citizens,6.1,Vijayanagara,2024,2,1.6,15.6,64.3
+crime_senior_citizens,6.1,Vijayanagara,2025,25,1.6,15.6,64.3
+crime_senior_citizens,6.1,TOTAL_DISTRICTS,2023,1840,83.4,49.99,77.7
+crime_senior_citizens,6.1,TOTAL_DISTRICTS,2024,4247,83.4,49.99,77.7
+crime_senior_citizens,6.1,TOTAL_DISTRICTS,2025,4169,83.4,49.99,77.7
+sc_atrocities,7.1,Bagalkot,2023,37,44.5,1.3,66.1
+sc_atrocities,7.1,Bagalkot,2024,49,44.5,1.3,66.1
+sc_atrocities,7.1,Bagalkot,2025,59,44.5,1.3,66.1
+sc_atrocities,7.1,Bengaluru City,2023,285,19.6,15.7,77.8
+sc_atrocities,7.1,Bengaluru City,2024,280,19.6,15.7,77.8
+sc_atrocities,7.1,Bengaluru City,2025,307,19.6,15.7,77.8
+sc_atrocities,7.1,Bengaluru District,2023,88,2.6,28.8,90.9
+sc_atrocities,7.1,Bengaluru District,2024,107,2.6,28.8,90.9
+sc_atrocities,7.1,Bengaluru District,2025,75,2.6,28.8,90.9
+sc_atrocities,7.1,Belagavi District,2023,70,3.9,26.9,87.9
+sc_atrocities,7.1,Belagavi District,2024,86,3.9,26.9,87.9
+sc_atrocities,7.1,Belagavi District,2025,105,3.9,26.9,87.9
+sc_atrocities,7.1,Ballari,2023,19,4.1,4.4,88.2
+sc_atrocities,7.1,Ballari,2024,26,4.1,4.4,88.2
+sc_atrocities,7.1,Ballari,2025,18,4.1,4.4,88.2
+sc_atrocities,7.1,Bidar,2023,35,6.1,3.8,93.5
+sc_atrocities,7.1,Bidar,2024,34,6.1,3.8,93.5
+sc_atrocities,7.1,Bidar,2025,23,6.1,3.8,93.5
+sc_atrocities,7.1,Vijayapura,2023,67,6.6,10.5,95.1
+sc_atrocities,7.1,Vijayapura,2024,97,6.6,10.5,95.1
+sc_atrocities,7.1,Vijayapura,2025,69,6.6,10.5,95.1
+sc_atrocities,7.1,Chikkaballapura,2023,55,3.8,7.4,100.0
+sc_atrocities,7.1,Chikkaballapura,2024,41,3.8,7.4,100.0
+sc_atrocities,7.1,Chikkaballapura,2025,28,3.8,7.4,100.0
+sc_atrocities,7.1,Chamarajnagar,2023,32,3.0,10.3,100.0
+sc_atrocities,7.1,Chamarajnagar,2024,29,3.0,10.3,100.0
+sc_atrocities,7.1,Chamarajnagar,2025,31,3.0,10.3,100.0
+sc_atrocities,7.1,Chikkamagaluru,2023,75,2.9,22.1,94.3
+sc_atrocities,7.1,Chikkamagaluru,2024,43,2.9,22.1,94.3
+sc_atrocities,7.1,Chikkamagaluru,2025,64,2.9,22.1,94.3
+sc_atrocities,7.1,Chitradurga,2023,36,4.8,10.4,95.7
+sc_atrocities,7.1,Chitradurga,2024,44,4.8,10.4,95.7
+sc_atrocities,7.1,Chitradurga,2025,50,4.8,10.4,95.7
+sc_atrocities,7.1,Dakshina Kannada,2023,26,0.9,16.7,90.0
+sc_atrocities,7.1,Dakshina Kannada,2024,18,0.9,16.7,90.0
+sc_atrocities,7.1,Dakshina Kannada,2025,15,0.9,16.7,90.0
+sc_atrocities,7.1,Davanagere,2023,65,3.8,13.9,82.7
+sc_atrocities,7.1,Davanagere,2024,51,3.8,13.9,82.7
+sc_atrocities,7.1,Davanagere,2025,53,3.8,13.9,82.7
+sc_atrocities,7.1,Dharwad,2023,27,1.3,21.5,76.2
+sc_atrocities,7.1,Dharwad,2024,25,1.3,21.5,76.2
+sc_atrocities,7.1,Dharwad,2025,28,1.3,21.5,76.2
+sc_atrocities,7.1,Gadag,2023,26,2.4,14.6,93.8
+sc_atrocities,7.1,Gadag,2024,30,2.4,14.6,93.8
+sc_atrocities,7.1,Gadag,2025,35,2.4,14.6,93.8
+sc_atrocities,7.1,Kalaburgi,2023,50,4.4,12.0,93.5
+sc_atrocities,7.1,Kalaburgi,2024,66,4.4,12.0,93.5
+sc_atrocities,7.1,Kalaburgi,2025,53,4.4,12.0,93.5
+sc_atrocities,7.1,Hassan,2023,80,4.0,27.0,80.0
+sc_atrocities,7.1,Hassan,2024,98,4.0,27.0,80.0
+sc_atrocities,7.1,Hassan,2025,108,4.0,27.0,80.0
+sc_atrocities,7.1,Haveri,2023,33,3.1,11.9,97.1
+sc_atrocities,7.1,Haveri,2024,36,3.1,11.9,97.1
+sc_atrocities,7.1,Haveri,2025,37,3.1,11.9,97.1
+sc_atrocities,7.1,Hubballi Dharwad City,2023,26,1.4,20.7,77.3
+sc_atrocities,7.1,Hubballi Dharwad City,2024,44,1.4,20.7,77.3
+sc_atrocities,7.1,Hubballi Dharwad City,2025,29,1.4,20.7,77.3
+sc_atrocities,7.1,KGF,2023,19,2.9,2.4,100.0
+sc_atrocities,7.1,KGF,2024,19,2.9,2.4,100.0
+sc_atrocities,7.1,KGF,2025,7,2.9,2.4,100.0
+sc_atrocities,7.1,Kodagu,2023,32,1.1,14.5,100.0
+sc_atrocities,7.1,Kodagu,2024,25,1.1,14.5,100.0
+sc_atrocities,7.1,Kodagu,2025,16,1.1,14.5,100.0
+sc_atrocities,7.1,Kolar,2023,55,3.0,7.3,100.0
+sc_atrocities,7.1,Kolar,2024,48,3.0,7.3,100.0
+sc_atrocities,7.1,Kolar,2025,22,3.0,7.3,100.0
+sc_atrocities,7.1,Koppal,2023,17,4.1,8.5,85.7
+sc_atrocities,7.1,Koppal,2024,39,4.1,8.5,85.7
+sc_atrocities,7.1,Koppal,2025,35,4.1,8.5,85.7
+sc_atrocities,7.1,Mandya,2023,68,2.9,25.5,85.2
+sc_atrocities,7.1,Mandya,2024,66,2.9,25.5,85.2
+sc_atrocities,7.1,Mandya,2025,74,2.9,25.5,85.2
+sc_atrocities,7.1,Mangaluru City,2023,33,0.9,27.8,72.0
+sc_atrocities,7.1,Mangaluru City,2024,21,0.9,27.8,72.0
+sc_atrocities,7.1,Mangaluru City,2025,25,0.9,27.8,72.0
+sc_atrocities,7.1,Mysuru City,2023,20,2.7,7.4,20.0
+sc_atrocities,7.1,Mysuru City,2024,21,2.7,7.4,20.0
+sc_atrocities,7.1,Mysuru City,2025,20,2.7,7.4,20.0
+sc_atrocities,7.1,Mysuru District,2023,66,3.9,6.7,95.2
+sc_atrocities,7.1,Mysuru District,2024,33,3.9,6.7,95.2
+sc_atrocities,7.1,Mysuru District,2025,26,3.9,6.7,95.2
+sc_atrocities,7.1,Raichur,2023,47,5.6,13.0,95.7
+sc_atrocities,7.1,Raichur,2024,52,5.6,13.0,95.7
+sc_atrocities,7.1,Raichur,2025,73,5.6,13.0,95.7
+sc_atrocities,7.1,KRailways,2023,0,0.0,0.0,0.0
+sc_atrocities,7.1,KRailways,2024,2,0.0,0.0,0.0
+sc_atrocities,7.1,KRailways,2025,2,0.0,0.0,0.0
+sc_atrocities,7.1,Bengaluru South,2023,93,2.3,21.3,83.8
+sc_atrocities,7.1,Bengaluru South,2024,53,2.3,21.3,83.8
+sc_atrocities,7.1,Bengaluru South,2025,49,2.3,21.3,83.8
+sc_atrocities,7.1,Shimoga,2023,92,3.7,25.7,84.7
+sc_atrocities,7.1,Shimoga,2024,109,3.7,25.7,84.7
+sc_atrocities,7.1,Shimoga,2025,95,3.7,25.7,84.7
+sc_atrocities,7.1,Tumakuru,2023,81,5.6,16.3,59.6
+sc_atrocities,7.1,Tumakuru,2024,102,5.6,16.3,59.6
+sc_atrocities,7.1,Tumakuru,2025,91,5.6,16.3,59.6
+sc_atrocities,7.1,Udupi,2023,35,0.9,51.1,82.5
+sc_atrocities,7.1,Udupi,2024,43,0.9,51.1,82.5
+sc_atrocities,7.1,Udupi,2025,46,0.9,51.1,82.5
+sc_atrocities,7.1,Uttara Kannada,2023,31,1.4,32.1,78.3
+sc_atrocities,7.1,Uttara Kannada,2024,41,1.4,32.1,78.3
+sc_atrocities,7.1,Uttara Kannada,2025,45,1.4,32.1,78.3
+sc_atrocities,7.1,Yadgiri,2023,22,4.2,14.0,87.9
+sc_atrocities,7.1,Yadgiri,2024,51,4.2,14.0,87.9
+sc_atrocities,7.1,Yadgiri,2025,59,4.2,14.0,87.9
+sc_atrocities,7.1,Belagavi City,2023,13,4.0,4.0,94.1
+sc_atrocities,7.1,Belagavi City,2024,29,4.0,4.0,94.1
+sc_atrocities,7.1,Belagavi City,2025,16,4.0,4.0,94.1
+sc_atrocities,7.1,Kalaburgi City,2023,41,4.5,6.9,93.8
+sc_atrocities,7.1,Kalaburgi City,2024,42,4.5,6.9,93.8
+sc_atrocities,7.1,Kalaburgi City,2025,31,4.5,6.9,93.8
+sc_atrocities,7.1,Vijayanagara,2023,26,5.1,2.0,100.0
+sc_atrocities,7.1,Vijayanagara,2024,16,5.1,2.0,100.0
+sc_atrocities,7.1,Vijayanagara,2025,10,5.1,2.0,100.0
+sc_atrocities,7.1,TOTAL_DISTRICTS,2023,1923,182.1,10.59,84.0
+sc_atrocities,7.1,TOTAL_DISTRICTS,2024,2016,182.1,10.59,84.0
+sc_atrocities,7.1,TOTAL_DISTRICTS,2025,1929,182.1,10.59,84.0
+st_atrocities,8.1,Bagalkot,2023,17,1.0,10.0,66.7
+st_atrocities,8.1,Bagalkot,2024,9,1.0,10.0,66.7
+st_atrocities,8.1,Bagalkot,2025,10,1.0,10.0,66.7
+st_atrocities,8.1,Bengaluru City,2023,16,1.9,11.6,61.5
+st_atrocities,8.1,Bengaluru City,2024,23,1.9,11.6,61.5
+st_atrocities,8.1,Bengaluru City,2025,22,1.9,11.6,61.5
+st_atrocities,8.1,Bengaluru District,2023,4,0.5,10.0,100.0
+st_atrocities,8.1,Bengaluru District,2024,6,0.5,10.0,100.0
+st_atrocities,8.1,Bengaluru District,2025,5,0.5,10.0,100.0
+st_atrocities,8.1,Belagavi District,2023,23,1.5,16.7,100.0
+st_atrocities,8.1,Belagavi District,2024,18,1.5,16.7,100.0
+st_atrocities,8.1,Belagavi District,2025,25,1.5,16.7,100.0
+st_atrocities,8.1,Ballari,2023,16,2.6,5.8,92.3
+st_atrocities,8.1,Ballari,2024,10,2.6,5.8,92.3
+st_atrocities,8.1,Ballari,2025,15,2.6,5.8,92.3
+st_atrocities,8.1,Bidar,2023,15,2.4,3.8,88.9
+st_atrocities,8.1,Bidar,2024,4,2.4,3.8,88.9
+st_atrocities,8.1,Bidar,2025,9,2.4,3.8,88.9
+st_atrocities,8.1,Vijayapura,2023,3,0.4,22.5,100.0
+st_atrocities,8.1,Vijayapura,2024,11,0.4,22.5,100.0
+st_atrocities,8.1,Vijayapura,2025,9,0.4,22.5,100.0
+st_atrocities,8.1,Chikkaballapura,2023,18,1.6,10.0,100.0
+st_atrocities,8.1,Chikkaballapura,2024,20,1.6,10.0,100.0
+st_atrocities,8.1,Chikkaballapura,2025,16,1.6,10.0,100.0
+st_atrocities,8.1,Chamarajnagar,2023,4,1.2,13.3,93.3
+st_atrocities,8.1,Chamarajnagar,2024,8,1.2,13.3,93.3
+st_atrocities,8.1,Chamarajnagar,2025,16,1.2,13.3,93.3
+st_atrocities,8.1,Chikkamagaluru,2023,10,0.5,10.0,100.0
+st_atrocities,8.1,Chikkamagaluru,2024,7,0.5,10.0,100.0
+st_atrocities,8.1,Chikkamagaluru,2025,5,0.5,10.0,100.0
+st_atrocities,8.1,Chitradurga,2023,13,3.0,3.3,81.8
+st_atrocities,8.1,Chitradurga,2024,13,3.0,3.3,81.8
+st_atrocities,8.1,Chitradurga,2025,10,3.0,3.3,81.8
+st_atrocities,8.1,Dakshina Kannada,2023,15,0.4,30.0,60.0
+st_atrocities,8.1,Dakshina Kannada,2024,13,0.4,30.0,60.0
+st_atrocities,8.1,Dakshina Kannada,2025,12,0.4,30.0,60.0
+st_atrocities,8.1,Davanagere,2023,15,1.8,7.8,73.3
+st_atrocities,8.1,Davanagere,2024,19,1.8,7.8,73.3
+st_atrocities,8.1,Davanagere,2025,14,1.8,7.8,73.3
+st_atrocities,8.1,Dharwad,2023,13,0.4,40.0,100.0
+st_atrocities,8.1,Dharwad,2024,14,0.4,40.0,100.0
+st_atrocities,8.1,Dharwad,2025,16,0.4,40.0,100.0
+st_atrocities,8.1,Gadag,2023,10,0.6,16.7,100.0
+st_atrocities,8.1,Gadag,2024,10,0.6,16.7,100.0
+st_atrocities,8.1,Gadag,2025,10,0.6,16.7,100.0
+st_atrocities,8.1,Kalaburgi,2023,4,0.3,13.3,100.0
+st_atrocities,8.1,Kalaburgi,2024,7,0.3,13.3,100.0
+st_atrocities,8.1,Kalaburgi,2025,4,0.3,13.3,100.0
+st_atrocities,8.1,Hassan,2023,6,0.3,23.3,100.0
+st_atrocities,8.1,Hassan,2024,2,0.3,23.3,100.0
+st_atrocities,8.1,Hassan,2025,7,0.3,23.3,100.0
+st_atrocities,8.1,Haveri,2023,23,1.4,25.7,100.0
+st_atrocities,8.1,Haveri,2024,25,1.4,25.7,100.0
+st_atrocities,8.1,Haveri,2025,36,1.4,25.7,100.0
+st_atrocities,8.1,Hubballi Dharwad City,2023,3,0.5,18.0,60.0
+st_atrocities,8.1,Hubballi Dharwad City,2024,7,0.5,18.0,60.0
+st_atrocities,8.1,Hubballi Dharwad City,2025,9,0.5,18.0,60.0
+st_atrocities,8.1,KGF,2023,3,0.4,5.0,100.0
+st_atrocities,8.1,KGF,2024,0,0.4,5.0,100.0
+st_atrocities,8.1,KGF,2025,2,0.4,5.0,100.0
+st_atrocities,8.1,Kodagu,2023,9,0.6,8.3,75.0
+st_atrocities,8.1,Kodagu,2024,17,0.6,8.3,75.0
+st_atrocities,8.1,Kodagu,2025,5,0.6,8.3,75.0
+st_atrocities,8.1,Kolar,2023,8,0.4,12.5,100.0
+st_atrocities,8.1,Kolar,2024,6,0.4,12.5,100.0
+st_atrocities,8.1,Kolar,2025,5,0.4,12.5,100.0
+st_atrocities,8.1,Koppal,2023,26,1.6,15.6,100.0
+st_atrocities,8.1,Koppal,2024,25,1.6,15.6,100.0
+st_atrocities,8.1,Koppal,2025,25,1.6,15.6,100.0
+st_atrocities,8.1,Mandya,2023,4,0.2,35.0,100.0
+st_atrocities,8.1,Mandya,2024,1,0.2,35.0,100.0
+st_atrocities,8.1,Mandya,2025,7,0.2,35.0,100.0
+st_atrocities,8.1,Mangaluru City,2023,3,0.4,20.0,42.9
+st_atrocities,8.1,Mangaluru City,2024,2,0.4,20.0,42.9
+st_atrocities,8.1,Mangaluru City,2025,8,0.4,20.0,42.9
+st_atrocities,8.1,Mysuru City,2023,4,1.4,5.0,16.7
+st_atrocities,8.1,Mysuru City,2024,5,1.4,5.0,16.7
+st_atrocities,8.1,Mysuru City,2025,7,1.4,5.0,16.7
+st_atrocities,8.1,Mysuru District,2023,9,2.0,2.5,75.0
+st_atrocities,8.1,Mysuru District,2024,12,2.0,2.5,75.0
+st_atrocities,8.1,Mysuru District,2025,5,2.0,2.5,75.0
+st_atrocities,8.1,Raichur,2023,30,3.7,13.0,91.4
+st_atrocities,8.1,Raichur,2024,26,3.7,13.0,91.4
+st_atrocities,8.1,Raichur,2025,48,3.7,13.0,91.4
+st_atrocities,8.1,KRailways,2023,0,0.0,0.0,
+st_atrocities,8.1,KRailways,2024,0,0.0,0.0,
+st_atrocities,8.1,KRailways,2025,0,0.0,0.0,
+st_atrocities,8.1,Bengaluru South,2023,6,0.2,15.0,100.0
+st_atrocities,8.1,Bengaluru South,2024,1,0.2,15.0,100.0
+st_atrocities,8.1,Bengaluru South,2025,3,0.2,15.0,100.0
+st_atrocities,8.1,Shimoga,2023,20,0.7,25.7,85.7
+st_atrocities,8.1,Shimoga,2024,4,0.7,25.7,85.7
+st_atrocities,8.1,Shimoga,2025,18,0.7,25.7,85.7
+st_atrocities,8.1,Tumakuru,2023,26,2.1,13.3,60.7
+st_atrocities,8.1,Tumakuru,2024,23,2.1,13.3,60.7
+st_atrocities,8.1,Tumakuru,2025,28,2.1,13.3,60.7
+st_atrocities,8.1,Udupi,2023,15,0.5,22.0,70.0
+st_atrocities,8.1,Udupi,2024,5,0.5,22.0,70.0
+st_atrocities,8.1,Udupi,2025,11,0.5,22.0,70.0
+st_atrocities,8.1,Uttara Kannada,2023,6,0.4,20.0,77.8
+st_atrocities,8.1,Uttara Kannada,2024,9,0.4,20.0,77.8
+st_atrocities,8.1,Uttara Kannada,2025,8,0.4,20.0,77.8
+st_atrocities,8.1,Yadgiri,2023,10,1.5,16.0,79.2
+st_atrocities,8.1,Yadgiri,2024,12,1.5,16.0,79.2
+st_atrocities,8.1,Yadgiri,2025,24,1.5,16.0,79.2
+st_atrocities,8.1,Belagavi City,2023,13,1.5,6.0,42.9
+st_atrocities,8.1,Belagavi City,2024,5,1.5,6.0,42.9
+st_atrocities,8.1,Belagavi City,2025,9,1.5,6.0,42.9
+st_atrocities,8.1,Kalaburgi City,2023,3,0.3,0.0,
+st_atrocities,8.1,Kalaburgi City,2024,2,0.3,0.0,
+st_atrocities,8.1,Kalaburgi City,2025,0,0.3,0.0,
+st_atrocities,8.1,Vijayanagara,2023,15,2.4,5.0,100.0
+st_atrocities,8.1,Vijayanagara,2024,12,2.4,5.0,100.0
+st_atrocities,8.1,Vijayanagara,2025,12,2.4,5.0,100.0
+st_atrocities,8.1,TOTAL_DISTRICTS,2023,438,42.6,11.15,84.1
+st_atrocities,8.1,TOTAL_DISTRICTS,2024,393,42.6,11.15,84.1
+st_atrocities,8.1,TOTAL_DISTRICTS,2025,475,42.6,11.15,84.1
+economic_offences,9.1,Bagalkot,2023,82,22.8,4.6,44.2
+economic_offences,9.1,Bagalkot,2024,139,22.8,4.6,44.2
+economic_offences,9.1,Bagalkot,2025,106,22.8,4.6,44.2
+economic_offences,9.1,Bengaluru City,2023,3858,165.3,20.0,55.6
+economic_offences,9.1,Bengaluru City,2024,3477,165.3,20.0,55.6
+economic_offences,9.1,Bengaluru City,2025,3310,165.3,20.0,55.6
+economic_offences,9.1,Bengaluru District,2023,565,12.3,29.3,52.0
+economic_offences,9.1,Bengaluru District,2024,597,12.3,29.3,52.0
+economic_offences,9.1,Bengaluru District,2025,360,12.3,29.3,52.0
+economic_offences,9.1,Belagavi District,2023,166,27.9,5.9,56.8
+economic_offences,9.1,Belagavi District,2024,163,27.9,5.9,56.8
+economic_offences,9.1,Belagavi District,2025,164,27.9,5.9,56.8
+economic_offences,9.1,Ballari,2023,83,18.7,5.2,52.8
+economic_offences,9.1,Ballari,2024,113,18.7,5.2,52.8
+economic_offences,9.1,Ballari,2025,97,18.7,5.2,52.8
+economic_offences,9.1,Bidar,2023,56,20.3,3.2,52.4
+economic_offences,9.1,Bidar,2024,66,20.3,3.2,52.4
+economic_offences,9.1,Bidar,2025,64,20.3,3.2,52.4
+economic_offences,9.1,Vijayapura,2023,95,28.3,5.0,62.1
+economic_offences,9.1,Vijayapura,2024,140,28.3,5.0,62.1
+economic_offences,9.1,Vijayapura,2025,141,28.3,5.0,62.1
+economic_offences,9.1,Chikkaballapura,2023,108,14.2,6.1,60.6
+economic_offences,9.1,Chikkaballapura,2024,125,14.2,6.1,60.6
+economic_offences,9.1,Chikkaballapura,2025,87,14.2,6.1,60.6
+economic_offences,9.1,Chamarajnagar,2023,50,11.0,4.4,93.3
+economic_offences,9.1,Chamarajnagar,2024,39,11.0,4.4,93.3
+economic_offences,9.1,Chamarajnagar,2025,48,11.0,4.4,93.3
+economic_offences,9.1,Chikkamagaluru,2023,81,11.1,8.4,50.0
+economic_offences,9.1,Chikkamagaluru,2024,68,11.1,8.4,50.0
+economic_offences,9.1,Chikkamagaluru,2025,93,11.1,8.4,50.0
+economic_offences,9.1,Chitradurga,2023,105,18.8,6.7,27.1
+economic_offences,9.1,Chitradurga,2024,109,18.8,6.7,27.1
+economic_offences,9.1,Chitradurga,2025,126,18.8,6.7,27.1
+economic_offences,9.1,Dakshina Kannada,2023,62,11.7,4.0,32.4
+economic_offences,9.1,Dakshina Kannada,2024,61,11.7,4.0,32.4
+economic_offences,9.1,Dakshina Kannada,2025,47,11.7,4.0,32.4
+economic_offences,9.1,Davanagere,2023,164,18.3,8.6,74.1
+economic_offences,9.1,Davanagere,2024,108,18.3,8.6,74.1
+economic_offences,9.1,Davanagere,2025,158,18.3,8.6,74.1
+economic_offences,9.1,Dharwad,2023,41,11.0,2.5,62.5
+economic_offences,9.1,Dharwad,2024,34,11.0,2.5,62.5
+economic_offences,9.1,Dharwad,2025,28,11.0,2.5,62.5
+economic_offences,9.1,Gadag,2023,44,12.1,5.1,68.6
+economic_offences,9.1,Gadag,2024,50,12.1,5.1,68.6
+economic_offences,9.1,Gadag,2025,62,12.1,5.1,68.6
+economic_offences,9.1,Kalaburgi,2023,41,16.0,3.8,51.3
+economic_offences,9.1,Kalaburgi,2024,49,16.0,3.8,51.3
+economic_offences,9.1,Kalaburgi,2025,60,16.0,3.8,51.3
+economic_offences,9.1,Hassan,2023,153,18.6,7.5,25.2
+economic_offences,9.1,Hassan,2024,172,18.6,7.5,25.2
+economic_offences,9.1,Hassan,2025,139,18.6,7.5,25.2
+economic_offences,9.1,Haveri,2023,73,18.5,3.7,56.6
+economic_offences,9.1,Haveri,2024,73,18.5,3.7,56.6
+economic_offences,9.1,Haveri,2025,69,18.5,3.7,56.6
+economic_offences,9.1,Hubballi Dharwad City,2023,120,11.5,8.1,57.1
+economic_offences,9.1,Hubballi Dharwad City,2024,123,11.5,8.1,57.1
+economic_offences,9.1,Hubballi Dharwad City,2025,93,11.5,8.1,57.1
+economic_offences,9.1,KGF,2023,38,8.7,4.4,52.9
+economic_offences,9.1,KGF,2024,29,8.7,4.4,52.9
+economic_offences,9.1,KGF,2025,38,8.7,4.4,52.9
+economic_offences,9.1,Kodagu,2023,75,5.6,10.2,78.2
+economic_offences,9.1,Kodagu,2024,84,5.6,10.2,78.2
+economic_offences,9.1,Kodagu,2025,57,5.6,10.2,78.2
+economic_offences,9.1,Kolar,2023,105,9.0,9.7,67.3
+economic_offences,9.1,Kolar,2024,71,9.0,9.7,67.3
+economic_offences,9.1,Kolar,2025,87,9.0,9.7,67.3
+economic_offences,9.1,Koppal,2023,43,17.2,2.5,81.8
+economic_offences,9.1,Koppal,2024,59,17.2,2.5,81.8
+economic_offences,9.1,Koppal,2025,43,17.2,2.5,81.8
+economic_offences,9.1,Mandya,2023,101,18.7,6.4,54.7
+economic_offences,9.1,Mandya,2024,108,18.7,6.4,54.7
+economic_offences,9.1,Mandya,2025,120,18.7,6.4,54.7
+economic_offences,9.1,Mangaluru City,2023,178,12.2,13.4,55.2
+economic_offences,9.1,Mangaluru City,2024,131,12.2,13.4,55.2
+economic_offences,9.1,Mangaluru City,2025,164,12.2,13.4,55.2
+economic_offences,9.1,Mysuru City,2023,221,14.7,10.1,54.1
+economic_offences,9.1,Mysuru City,2024,175,14.7,10.1,54.1
+economic_offences,9.1,Mysuru City,2025,149,14.7,10.1,54.1
+economic_offences,9.1,Mysuru District,2023,82,21.2,5.7,49.5
+economic_offences,9.1,Mysuru District,2024,104,21.2,5.7,49.5
+economic_offences,9.1,Mysuru District,2025,120,21.2,5.7,49.5
+economic_offences,9.1,Raichur,2023,78,23.6,4.4,49.6
+economic_offences,9.1,Raichur,2024,114,23.6,4.4,49.6
+economic_offences,9.1,Raichur,2025,104,23.6,4.4,49.6
+economic_offences,9.1,KRailways,2023,3,0.0,0.0,100.0
+economic_offences,9.1,KRailways,2024,3,0.0,0.0,100.0
+economic_offences,9.1,KRailways,2025,2,0.0,0.0,100.0
+economic_offences,9.1,Bengaluru South,2023,152,11.6,15.2,58.5
+economic_offences,9.1,Bengaluru South,2024,145,11.6,15.2,58.5
+economic_offences,9.1,Bengaluru South,2025,176,11.6,15.2,58.5
+economic_offences,9.1,Shimoga,2023,224,19.2,11.7,45.0
+economic_offences,9.1,Shimoga,2024,222,19.2,11.7,45.0
+economic_offences,9.1,Shimoga,2025,224,19.2,11.7,45.0
+economic_offences,9.1,Tumakuru,2023,273,28.2,7.6,55.1
+economic_offences,9.1,Tumakuru,2024,271,28.2,7.6,55.1
+economic_offences,9.1,Tumakuru,2025,214,28.2,7.6,55.1
+economic_offences,9.1,Udupi,2023,148,12.8,10.4,46.5
+economic_offences,9.1,Udupi,2024,172,12.8,10.4,46.5
+economic_offences,9.1,Udupi,2025,133,12.8,10.4,46.5
+economic_offences,9.1,Uttara Kannada,2023,123,15.6,7.7,50.0
+economic_offences,9.1,Uttara Kannada,2024,104,15.6,7.7,50.0
+economic_offences,9.1,Uttara Kannada,2025,120,15.6,7.7,50.0
+economic_offences,9.1,Yadgiri,2023,48,15.7,3.6,55.1
+economic_offences,9.1,Yadgiri,2024,43,15.7,3.6,55.1
+economic_offences,9.1,Yadgiri,2025,57,15.7,3.6,55.1
+economic_offences,9.1,Belagavi City,2023,94,29.1,3.5,31.3
+economic_offences,9.1,Belagavi City,2024,109,29.1,3.5,31.3
+economic_offences,9.1,Belagavi City,2025,102,29.1,3.5,31.3
+economic_offences,9.1,Kalaburgi City,2023,73,16.4,3.6,43.8
+economic_offences,9.1,Kalaburgi City,2024,89,16.4,3.6,43.8
+economic_offences,9.1,Kalaburgi City,2025,59,16.4,3.6,43.8
+economic_offences,9.1,Vijayanagara,2023,88,16.9,4.5,60.0
+economic_offences,9.1,Vijayanagara,2024,75,16.9,4.5,60.0
+economic_offences,9.1,Vijayanagara,2025,76,16.9,4.5,60.0
+economic_offences,9.1,TOTAL_DISTRICTS,2023,8094,764.6,9.54,53.7
+economic_offences,9.1,TOTAL_DISTRICTS,2024,7814,764.6,9.54,53.7
+economic_offences,9.1,TOTAL_DISTRICTS,2025,7297,764.6,9.54,53.7
+cyber_crime,10.1,Bagalkot,2023,50,22.8,1.7,18.2
+cyber_crime,10.1,Bagalkot,2024,47,22.8,1.7,18.2
+cyber_crime,10.1,Bagalkot,2025,39,22.8,1.7,18.2
+cyber_crime,10.1,Bengaluru City,2023,17631,165.3,63.8,18.0
+cyber_crime,10.1,Bengaluru City,2024,17561,165.3,63.8,18.0
+cyber_crime,10.1,Bengaluru City,2025,10546,165.3,63.8,18.0
+cyber_crime,10.1,Bengaluru District,2023,768,12.3,29.5,2.6
+cyber_crime,10.1,Bengaluru District,2024,844,12.3,29.5,2.6
+cyber_crime,10.1,Bengaluru District,2025,363,12.3,29.5,2.6
+cyber_crime,10.1,Belagavi District,2023,84,27.9,2.4,7.8
+cyber_crime,10.1,Belagavi District,2024,65,27.9,2.4,7.8
+cyber_crime,10.1,Belagavi District,2025,66,27.9,2.4,7.8
+cyber_crime,10.1,Ballari,2023,76,18.7,4.7,13.8
+cyber_crime,10.1,Ballari,2024,118,18.7,4.7,13.8
+cyber_crime,10.1,Ballari,2025,87,18.7,4.7,13.8
+cyber_crime,10.1,Bidar,2023,38,20.3,2.0,13.6
+cyber_crime,10.1,Bidar,2024,41,20.3,2.0,13.6
+cyber_crime,10.1,Bidar,2025,41,20.3,2.0,13.6
+cyber_crime,10.1,Vijayapura,2023,93,28.3,12.4,34.0
+cyber_crime,10.1,Vijayapura,2024,80,28.3,12.4,34.0
+cyber_crime,10.1,Vijayapura,2025,352,28.3,12.4,34.0
+cyber_crime,10.1,Chikkaballapura,2023,262,14.2,15.0,15.4
+cyber_crime,10.1,Chikkaballapura,2024,189,14.2,15.0,15.4
+cyber_crime,10.1,Chikkaballapura,2025,213,14.2,15.0,15.4
+cyber_crime,10.1,Chamarajnagar,2023,42,11.0,2.8,40.0
+cyber_crime,10.1,Chamarajnagar,2024,24,11.0,2.8,40.0
+cyber_crime,10.1,Chamarajnagar,2025,31,11.0,2.8,40.0
+cyber_crime,10.1,Chikkamagaluru,2023,98,11.1,7.6,8.8
+cyber_crime,10.1,Chikkamagaluru,2024,92,11.1,7.6,8.8
+cyber_crime,10.1,Chikkamagaluru,2025,84,11.1,7.6,8.8
+cyber_crime,10.1,Chitradurga,2023,58,18.8,3.5,
+cyber_crime,10.1,Chitradurga,2024,74,18.8,3.5,
+cyber_crime,10.1,Chitradurga,2025,65,18.8,3.5,
+cyber_crime,10.1,Dakshina Kannada,2023,50,11.7,11.5,10.3
+cyber_crime,10.1,Dakshina Kannada,2024,104,11.7,11.5,10.3
+cyber_crime,10.1,Dakshina Kannada,2025,135,11.7,11.5,10.3
+cyber_crime,10.1,Davanagere,2023,95,18.3,5.5,5.4
+cyber_crime,10.1,Davanagere,2024,142,18.3,5.5,5.4
+cyber_crime,10.1,Davanagere,2025,101,18.3,5.5,5.4
+cyber_crime,10.1,Dharwad,2023,46,11.0,4.5,12.5
+cyber_crime,10.1,Dharwad,2024,68,11.0,4.5,12.5
+cyber_crime,10.1,Dharwad,2025,50,11.0,4.5,12.5
+cyber_crime,10.1,Gadag,2023,65,12.1,4.2,29.6
+cyber_crime,10.1,Gadag,2024,67,12.1,4.2,29.6
+cyber_crime,10.1,Gadag,2025,51,12.1,4.2,29.6
+cyber_crime,10.1,Kalaburgi,2023,27,16.0,1.8,33.3
+cyber_crime,10.1,Kalaburgi,2024,33,16.0,1.8,33.3
+cyber_crime,10.1,Kalaburgi,2025,29,16.0,1.8,33.3
+cyber_crime,10.1,Hassan,2023,111,18.6,4.6,10.7
+cyber_crime,10.1,Hassan,2024,131,18.6,4.6,10.7
+cyber_crime,10.1,Hassan,2025,85,18.6,4.6,10.7
+cyber_crime,10.1,Haveri,2023,107,18.5,5.1,10.8
+cyber_crime,10.1,Haveri,2024,125,18.5,5.1,10.8
+cyber_crime,10.1,Haveri,2025,94,18.5,5.1,10.8
+cyber_crime,10.1,Hubballi Dharwad City,2023,465,11.5,15.7,3.7
+cyber_crime,10.1,Hubballi Dharwad City,2024,240,11.5,15.7,3.7
+cyber_crime,10.1,Hubballi Dharwad City,2025,181,11.5,15.7,3.7
+cyber_crime,10.1,KGF,2023,122,8.7,8.6,22.3
+cyber_crime,10.1,KGF,2024,97,8.7,8.6,22.3
+cyber_crime,10.1,KGF,2025,75,8.7,8.6,22.3
+cyber_crime,10.1,Kodagu,2023,105,5.6,12.7,1.7
+cyber_crime,10.1,Kodagu,2024,82,5.6,12.7,1.7
+cyber_crime,10.1,Kodagu,2025,71,5.6,12.7,1.7
+cyber_crime,10.1,Kolar,2023,65,9.0,7.9,88.0
+cyber_crime,10.1,Kolar,2024,58,9.0,7.9,88.0
+cyber_crime,10.1,Kolar,2025,71,9.0,7.9,88.0
+cyber_crime,10.1,Koppal,2023,18,17.2,1.3,
+cyber_crime,10.1,Koppal,2024,27,17.2,1.3,
+cyber_crime,10.1,Koppal,2025,22,17.2,1.3,
+cyber_crime,10.1,Mandya,2023,47,18.7,3.9,18.3
+cyber_crime,10.1,Mandya,2024,67,18.7,3.9,18.3
+cyber_crime,10.1,Mandya,2025,72,18.7,3.9,18.3
+cyber_crime,10.1,Mangaluru City,2023,241,12.2,10.1,21.9
+cyber_crime,10.1,Mangaluru City,2024,137,12.2,10.1,21.9
+cyber_crime,10.1,Mangaluru City,2025,123,12.2,10.1,21.9
+cyber_crime,10.1,Mysuru City,2023,234,14.7,12.8,0.0
+cyber_crime,10.1,Mysuru City,2024,260,14.7,12.8,0.0
+cyber_crime,10.1,Mysuru City,2025,188,14.7,12.8,0.0
+cyber_crime,10.1,Mysuru District,2023,40,21.2,2.9,41.5
+cyber_crime,10.1,Mysuru District,2024,46,21.2,2.9,41.5
+cyber_crime,10.1,Mysuru District,2025,62,21.2,2.9,41.5
+cyber_crime,10.1,Raichur,2023,29,23.6,1.0,82.6
+cyber_crime,10.1,Raichur,2024,21,23.6,1.0,82.6
+cyber_crime,10.1,Raichur,2025,23,23.6,1.0,82.6
+cyber_crime,10.1,KRailways,2023,1,0.0,0.0,25.0
+cyber_crime,10.1,KRailways,2024,0,0.0,0.0,25.0
+cyber_crime,10.1,KRailways,2025,4,0.0,0.0,25.0
+cyber_crime,10.1,Bengaluru South,2023,159,11.6,18.5,28.6
+cyber_crime,10.1,Bengaluru South,2024,236,11.6,18.5,28.6
+cyber_crime,10.1,Bengaluru South,2025,215,11.6,18.5,28.6
+cyber_crime,10.1,Shimoga,2023,54,19.2,7.2,11.7
+cyber_crime,10.1,Shimoga,2024,123,19.2,7.2,11.7
+cyber_crime,10.1,Shimoga,2025,138,19.2,7.2,11.7
+cyber_crime,10.1,Tumakuru,2023,252,28.2,9.3,8.2
+cyber_crime,10.1,Tumakuru,2024,322,28.2,9.3,8.2
+cyber_crime,10.1,Tumakuru,2025,262,28.2,9.3,8.2
+cyber_crime,10.1,Udupi,2023,129,12.8,14.8,4.3
+cyber_crime,10.1,Udupi,2024,203,12.8,14.8,4.3
+cyber_crime,10.1,Udupi,2025,190,12.8,14.8,4.3
+cyber_crime,10.1,Uttara Kannada,2023,80,15.6,4.1,16.1
+cyber_crime,10.1,Uttara Kannada,2024,96,15.6,4.1,16.1
+cyber_crime,10.1,Uttara Kannada,2025,64,15.6,4.1,16.1
+cyber_crime,10.1,Yadgiri,2023,17,15.7,1.6,10.0
+cyber_crime,10.1,Yadgiri,2024,19,15.7,1.6,10.0
+cyber_crime,10.1,Yadgiri,2025,25,15.7,1.6,10.0
+cyber_crime,10.1,Belagavi City,2023,83,29.1,3.2,8.5
+cyber_crime,10.1,Belagavi City,2024,102,29.1,3.2,8.5
+cyber_crime,10.1,Belagavi City,2025,94,29.1,3.2,8.5
+cyber_crime,10.1,Kalaburgi City,2023,33,16.4,3.1,16.7
+cyber_crime,10.1,Kalaburgi City,2024,30,16.4,3.1,16.7
+cyber_crime,10.1,Kalaburgi City,2025,51,16.4,3.1,16.7
+cyber_crime,10.1,Vijayanagara,2023,14,16.9,2.0,24.0
+cyber_crime,10.1,Vijayanagara,2024,22,16.9,2.0,24.0
+cyber_crime,10.1,Vijayanagara,2025,33,16.9,2.0,24.0
+cyber_crime,10.1,TOTAL_DISTRICTS,2023,21889,764.6,18.83,16.9
+cyber_crime,10.1,TOTAL_DISTRICTS,2024,21993,764.6,18.83,16.9
+cyber_crime,10.1,TOTAL_DISTRICTS,2025,14396,764.6,18.83,16.9
+environment_offences,11.1,Bagalkot,2023,82,22.8,9.6,100.0
+environment_offences,11.1,Bagalkot,2024,69,22.8,9.6,100.0
+environment_offences,11.1,Bagalkot,2025,219,22.8,9.6,100.0
+environment_offences,11.1,Bengaluru City,2023,1335,165.3,17.0,99.9
+environment_offences,11.1,Bengaluru City,2024,989,165.3,17.0,99.9
+environment_offences,11.1,Bengaluru City,2025,2808,165.3,17.0,99.9
+environment_offences,11.1,Bengaluru District,2023,13,12.3,0.5,80.0
+environment_offences,11.1,Bengaluru District,2024,8,12.3,0.5,80.0
+environment_offences,11.1,Bengaluru District,2025,6,12.3,0.5,80.0
+environment_offences,11.1,Belagavi District,2023,19,27.9,0.5,100.0
+environment_offences,11.1,Belagavi District,2024,4,27.9,0.5,100.0
+environment_offences,11.1,Belagavi District,2025,14,27.9,0.5,100.0
+environment_offences,11.1,Ballari,2023,1,18.7,0.1,100.0
+environment_offences,11.1,Ballari,2024,2,18.7,0.1,100.0
+environment_offences,11.1,Ballari,2025,1,18.7,0.1,100.0
+environment_offences,11.1,Bidar,2023,12,20.3,0.4,100.0
+environment_offences,11.1,Bidar,2024,15,20.3,0.4,100.0
+environment_offences,11.1,Bidar,2025,9,20.3,0.4,100.0
+environment_offences,11.1,Vijayapura,2023,34,28.3,2.2,100.0
+environment_offences,11.1,Vijayapura,2024,21,28.3,2.2,100.0
+environment_offences,11.1,Vijayapura,2025,61,28.3,2.2,100.0
+environment_offences,11.1,Chikkaballapura,2023,7,14.2,0.1,100.0
+environment_offences,11.1,Chikkaballapura,2024,1,14.2,0.1,100.0
+environment_offences,11.1,Chikkaballapura,2025,2,14.2,0.1,100.0
+environment_offences,11.1,Chamarajnagar,2023,0,11.0,0.2,
+environment_offences,11.1,Chamarajnagar,2024,1,11.0,0.2,
+environment_offences,11.1,Chamarajnagar,2025,2,11.0,0.2,
+environment_offences,11.1,Chikkamagaluru,2023,2,11.1,0.1,100.0
+environment_offences,11.1,Chikkamagaluru,2024,5,11.1,0.1,100.0
+environment_offences,11.1,Chikkamagaluru,2025,1,11.1,0.1,100.0
+environment_offences,11.1,Chitradurga,2023,8,18.8,0.1,
+environment_offences,11.1,Chitradurga,2024,2,18.8,0.1,
+environment_offences,11.1,Chitradurga,2025,1,18.8,0.1,
+environment_offences,11.1,Dakshina Kannada,2023,3,11.7,0.0,
+environment_offences,11.1,Dakshina Kannada,2024,0,11.7,0.0,
+environment_offences,11.1,Dakshina Kannada,2025,0,11.7,0.0,
+environment_offences,11.1,Davanagere,2023,1,18.3,0.2,
+environment_offences,11.1,Davanagere,2024,2,18.3,0.2,
+environment_offences,11.1,Davanagere,2025,3,18.3,0.2,
+environment_offences,11.1,Dharwad,2023,0,11.0,0.0,
+environment_offences,11.1,Dharwad,2024,0,11.0,0.0,
+environment_offences,11.1,Dharwad,2025,0,11.0,0.0,
+environment_offences,11.1,Gadag,2023,0,12.1,0.0,100.0
+environment_offences,11.1,Gadag,2024,1,12.1,0.0,100.0
+environment_offences,11.1,Gadag,2025,0,12.1,0.0,100.0
+environment_offences,11.1,Kalaburgi,2023,1,16.0,0.1,100.0
+environment_offences,11.1,Kalaburgi,2024,3,16.0,0.1,100.0
+environment_offences,11.1,Kalaburgi,2025,1,16.0,0.1,100.0
+environment_offences,11.1,Hassan,2023,1,18.6,0.0,
+environment_offences,11.1,Hassan,2024,4,18.6,0.0,
+environment_offences,11.1,Hassan,2025,0,18.6,0.0,
+environment_offences,11.1,Haveri,2023,2,18.5,0.4,100.0
+environment_offences,11.1,Haveri,2024,9,18.5,0.4,100.0
+environment_offences,11.1,Haveri,2025,8,18.5,0.4,100.0
+environment_offences,11.1,Hubballi Dharwad City,2023,0,11.5,0.0,
+environment_offences,11.1,Hubballi Dharwad City,2024,0,11.5,0.0,
+environment_offences,11.1,Hubballi Dharwad City,2025,0,11.5,0.0,
+environment_offences,11.1,KGF,2023,1,8.7,0.0,
+environment_offences,11.1,KGF,2024,0,8.7,0.0,
+environment_offences,11.1,KGF,2025,0,8.7,0.0,
+environment_offences,11.1,Kodagu,2023,2,5.6,0.5,100.0
+environment_offences,11.1,Kodagu,2024,13,5.6,0.5,100.0
+environment_offences,11.1,Kodagu,2025,3,5.6,0.5,100.0
+environment_offences,11.1,Kolar,2023,4,9.0,1.4,57.1
+environment_offences,11.1,Kolar,2024,6,9.0,1.4,57.1
+environment_offences,11.1,Kolar,2025,13,9.0,1.4,57.1
+environment_offences,11.1,Koppal,2023,1,17.2,0.2,100.0
+environment_offences,11.1,Koppal,2024,4,17.2,0.2,100.0
+environment_offences,11.1,Koppal,2025,3,17.2,0.2,100.0
+environment_offences,11.1,Mandya,2023,0,18.7,0.2,40.0
+environment_offences,11.1,Mandya,2024,3,18.7,0.2,40.0
+environment_offences,11.1,Mandya,2025,4,18.7,0.2,40.0
+environment_offences,11.1,Mangaluru City,2023,9,12.2,0.2,100.0
+environment_offences,11.1,Mangaluru City,2024,0,12.2,0.2,100.0
+environment_offences,11.1,Mangaluru City,2025,3,12.2,0.2,100.0
+environment_offences,11.1,Mysuru City,2023,4,14.7,0.3,25.0
+environment_offences,11.1,Mysuru City,2024,2,14.7,0.3,25.0
+environment_offences,11.1,Mysuru City,2025,4,14.7,0.3,25.0
+environment_offences,11.1,Mysuru District,2023,2,21.2,0.1,100.0
+environment_offences,11.1,Mysuru District,2024,1,21.2,0.1,100.0
+environment_offences,11.1,Mysuru District,2025,3,21.2,0.1,100.0
+environment_offences,11.1,Raichur,2023,0,23.6,0.0,
+environment_offences,11.1,Raichur,2024,0,23.6,0.0,
+environment_offences,11.1,Raichur,2025,0,23.6,0.0,
+environment_offences,11.1,KRailways,2023,0,0.0,0.0,
+environment_offences,11.1,KRailways,2024,0,0.0,0.0,
+environment_offences,11.1,KRailways,2025,0,0.0,0.0,
+environment_offences,11.1,Bengaluru South,2023,0,11.6,0.6,100.0
+environment_offences,11.1,Bengaluru South,2024,16,11.6,0.6,100.0
+environment_offences,11.1,Bengaluru South,2025,7,11.6,0.6,100.0
+environment_offences,11.1,Shimoga,2023,29,19.2,0.5,100.0
+environment_offences,11.1,Shimoga,2024,15,19.2,0.5,100.0
+environment_offences,11.1,Shimoga,2025,9,19.2,0.5,100.0
+environment_offences,11.1,Tumakuru,2023,6,28.2,2.8,97.5
+environment_offences,11.1,Tumakuru,2024,5,28.2,2.8,97.5
+environment_offences,11.1,Tumakuru,2025,80,28.2,2.8,97.5
+environment_offences,11.1,Udupi,2023,5,12.8,0.2,100.0
+environment_offences,11.1,Udupi,2024,1,12.8,0.2,100.0
+environment_offences,11.1,Udupi,2025,3,12.8,0.2,100.0
+environment_offences,11.1,Uttara Kannada,2023,2,15.6,0.0,
+environment_offences,11.1,Uttara Kannada,2024,0,15.6,0.0,
+environment_offences,11.1,Uttara Kannada,2025,0,15.6,0.0,
+environment_offences,11.1,Yadgiri,2023,1,15.7,0.0,
+environment_offences,11.1,Yadgiri,2024,0,15.7,0.0,
+environment_offences,11.1,Yadgiri,2025,0,15.7,0.0,
+environment_offences,11.1,Belagavi City,2023,0,29.1,0.0,100.0
+environment_offences,11.1,Belagavi City,2024,4,29.1,0.0,100.0
+environment_offences,11.1,Belagavi City,2025,0,29.1,0.0,100.0
+environment_offences,11.1,Kalaburgi City,2023,1,16.4,0.1,100.0
+environment_offences,11.1,Kalaburgi City,2024,7,16.4,0.1,100.0
+environment_offences,11.1,Kalaburgi City,2025,2,16.4,0.1,100.0
+environment_offences,11.1,Vijayanagara,2023,1,16.9,0.1,100.0
+environment_offences,11.1,Vijayanagara,2024,1,16.9,0.1,100.0
+environment_offences,11.1,Vijayanagara,2025,1,16.9,0.1,100.0
+environment_offences,11.1,TOTAL_DISTRICTS,2023,1589,764.6,4.28,99.5
+environment_offences,11.1,TOTAL_DISTRICTS,2024,1214,764.6,4.28,99.5
+environment_offences,11.1,TOTAL_DISTRICTS,2025,3271,764.6,4.28,99.5
+crime_vs_foreigners,12.1,Bagalkot,2023,0,,,
+crime_vs_foreigners,12.1,Bagalkot,2024,0,,,
+crime_vs_foreigners,12.1,Bagalkot,2025,0,,,
+crime_vs_foreigners,12.1,Bengaluru City,2023,31,70.0,,
+crime_vs_foreigners,12.1,Bengaluru City,2024,30,70.0,,
+crime_vs_foreigners,12.1,Bengaluru City,2025,27,70.0,,
+crime_vs_foreigners,12.1,Bengaluru District,2023,1,,,
+crime_vs_foreigners,12.1,Bengaluru District,2024,0,,,
+crime_vs_foreigners,12.1,Bengaluru District,2025,0,,,
+crime_vs_foreigners,12.1,Belagavi District,2023,0,,,
+crime_vs_foreigners,12.1,Belagavi District,2024,0,,,
+crime_vs_foreigners,12.1,Belagavi District,2025,0,,,
+crime_vs_foreigners,12.1,Ballari,2023,0,,,
+crime_vs_foreigners,12.1,Ballari,2024,0,,,
+crime_vs_foreigners,12.1,Ballari,2025,0,,,
+crime_vs_foreigners,12.1,Bidar,2023,0,,,
+crime_vs_foreigners,12.1,Bidar,2024,0,,,
+crime_vs_foreigners,12.1,Bidar,2025,0,,,
+crime_vs_foreigners,12.1,Vijayapura,2023,0,,,
+crime_vs_foreigners,12.1,Vijayapura,2024,0,,,
+crime_vs_foreigners,12.1,Vijayapura,2025,0,,,
+crime_vs_foreigners,12.1,Chikkaballapura,2023,0,,,
+crime_vs_foreigners,12.1,Chikkaballapura,2024,0,,,
+crime_vs_foreigners,12.1,Chikkaballapura,2025,0,,,
+crime_vs_foreigners,12.1,Chamarajnagar,2023,0,,,
+crime_vs_foreigners,12.1,Chamarajnagar,2024,0,,,
+crime_vs_foreigners,12.1,Chamarajnagar,2025,0,,,
+crime_vs_foreigners,12.1,Chikkamagaluru,2023,0,,,
+crime_vs_foreigners,12.1,Chikkamagaluru,2024,1,,,
+crime_vs_foreigners,12.1,Chikkamagaluru,2025,0,,,
+crime_vs_foreigners,12.1,Chitradurga,2023,0,,,
+crime_vs_foreigners,12.1,Chitradurga,2024,0,,,
+crime_vs_foreigners,12.1,Chitradurga,2025,0,,,
+crime_vs_foreigners,12.1,Dakshina Kannada,2023,0,,,
+crime_vs_foreigners,12.1,Dakshina Kannada,2024,0,,,
+crime_vs_foreigners,12.1,Dakshina Kannada,2025,0,,,
+crime_vs_foreigners,12.1,Davanagere,2023,0,,,
+crime_vs_foreigners,12.1,Davanagere,2024,0,,,
+crime_vs_foreigners,12.1,Davanagere,2025,0,,,
+crime_vs_foreigners,12.1,Dharwad,2023,0,,,
+crime_vs_foreigners,12.1,Dharwad,2024,0,,,
+crime_vs_foreigners,12.1,Dharwad,2025,0,,,
+crime_vs_foreigners,12.1,Gadag,2023,0,,,
+crime_vs_foreigners,12.1,Gadag,2024,0,,,
+crime_vs_foreigners,12.1,Gadag,2025,0,,,
+crime_vs_foreigners,12.1,Kalaburgi,2023,0,,,
+crime_vs_foreigners,12.1,Kalaburgi,2024,0,,,
+crime_vs_foreigners,12.1,Kalaburgi,2025,0,,,
+crime_vs_foreigners,12.1,Hassan,2023,0,,,
+crime_vs_foreigners,12.1,Hassan,2024,0,,,
+crime_vs_foreigners,12.1,Hassan,2025,0,,,
+crime_vs_foreigners,12.1,Haveri,2023,0,,,
+crime_vs_foreigners,12.1,Haveri,2024,0,,,
+crime_vs_foreigners,12.1,Haveri,2025,0,,,
+crime_vs_foreigners,12.1,Dharwad Hubballi,2023,0,,,
+crime_vs_foreigners,12.1,Dharwad Hubballi,2024,0,,,
+crime_vs_foreigners,12.1,Dharwad Hubballi,2025,0,,,
+crime_vs_foreigners,12.1,KGF,2023,0,,,
+crime_vs_foreigners,12.1,KGF,2024,0,,,
+crime_vs_foreigners,12.1,KGF,2025,0,,,
+crime_vs_foreigners,12.1,Kodagu,2023,0,,,
+crime_vs_foreigners,12.1,Kodagu,2024,0,,,
+crime_vs_foreigners,12.1,Kodagu,2025,0,,,
+crime_vs_foreigners,12.1,Kolar,2023,0,,,
+crime_vs_foreigners,12.1,Kolar,2024,0,,,
+crime_vs_foreigners,12.1,Kolar,2025,0,,,
+crime_vs_foreigners,12.1,Koppal,2023,0,,,
+crime_vs_foreigners,12.1,Koppal,2024,0,,,
+crime_vs_foreigners,12.1,Koppal,2025,0,,,
+crime_vs_foreigners,12.1,Mandya,2023,0,,,
+crime_vs_foreigners,12.1,Mandya,2024,0,,,
+crime_vs_foreigners,12.1,Mandya,2025,0,,,
+crime_vs_foreigners,12.1,Mangaluru City,2023,0,,,
+crime_vs_foreigners,12.1,Mangaluru City,2024,0,,,
+crime_vs_foreigners,12.1,Mangaluru City,2025,0,,,
+crime_vs_foreigners,12.1,Mysuru City,2023,0,100.0,,
+crime_vs_foreigners,12.1,Mysuru City,2024,0,100.0,,
+crime_vs_foreigners,12.1,Mysuru City,2025,2,100.0,,
+crime_vs_foreigners,12.1,Mysuru District,2023,0,,,
+crime_vs_foreigners,12.1,Mysuru District,2024,0,,,
+crime_vs_foreigners,12.1,Mysuru District,2025,0,,,
+crime_vs_foreigners,12.1,Raichur,2023,0,,,
+crime_vs_foreigners,12.1,Raichur,2024,0,,,
+crime_vs_foreigners,12.1,Raichur,2025,0,,,
+crime_vs_foreigners,12.1,KRailways,2023,0,,,
+crime_vs_foreigners,12.1,KRailways,2024,0,,,
+crime_vs_foreigners,12.1,KRailways,2025,0,,,
+crime_vs_foreigners,12.1,Bengaluru South,2023,0,,,
+crime_vs_foreigners,12.1,Bengaluru South,2024,0,,,
+crime_vs_foreigners,12.1,Bengaluru South,2025,0,,,
+crime_vs_foreigners,12.1,Shimoga,2023,0,,,
+crime_vs_foreigners,12.1,Shimoga,2024,0,,,
+crime_vs_foreigners,12.1,Shimoga,2025,0,,,
+crime_vs_foreigners,12.1,Tumakuru,2023,0,,,
+crime_vs_foreigners,12.1,Tumakuru,2024,0,,,
+crime_vs_foreigners,12.1,Tumakuru,2025,0,,,
+crime_vs_foreigners,12.1,Udupi,2023,0,,,
+crime_vs_foreigners,12.1,Udupi,2024,1,,,
+crime_vs_foreigners,12.1,Udupi,2025,0,,,
+crime_vs_foreigners,12.1,Uttara Kannada,2023,0,100.0,,
+crime_vs_foreigners,12.1,Uttara Kannada,2024,0,100.0,,
+crime_vs_foreigners,12.1,Uttara Kannada,2025,1,100.0,,
+crime_vs_foreigners,12.1,Yadgiri,2023,0,,,
+crime_vs_foreigners,12.1,Yadgiri,2024,0,,,
+crime_vs_foreigners,12.1,Yadgiri,2025,0,,,
+crime_vs_foreigners,12.1,Belagavi City,2023,0,,,
+crime_vs_foreigners,12.1,Belagavi City,2024,0,,,
+crime_vs_foreigners,12.1,Belagavi City,2025,0,,,
+crime_vs_foreigners,12.1,Kalaburgi City,2023,0,,,
+crime_vs_foreigners,12.1,Kalaburgi City,2024,0,,,
+crime_vs_foreigners,12.1,Kalaburgi City,2025,0,,,
+crime_vs_foreigners,12.1,Vijayanagara,2023,0,,,
+crime_vs_foreigners,12.1,Vijayanagara,2024,0,,,
+crime_vs_foreigners,12.1,Vijayanagara,2025,0,,,
+crime_vs_foreigners,12.1,TOTAL_DISTRICTS,2023,32,72.7,,
+crime_vs_foreigners,12.1,TOTAL_DISTRICTS,2024,32,72.7,,
+crime_vs_foreigners,12.1,TOTAL_DISTRICTS,2025,30,72.7,,
+crime_by_foreigners,13.1,Bagalkot,2023,0,0.0,,
+crime_by_foreigners,13.1,Bagalkot,2024,0,0.0,,
+crime_by_foreigners,13.1,Bagalkot,2025,0,0.0,,
+crime_by_foreigners,13.1,Bengaluru City,2023,114,94.4,,
+crime_by_foreigners,13.1,Bengaluru City,2024,77,94.4,,
+crime_by_foreigners,13.1,Bengaluru City,2025,83,94.4,,
+crime_by_foreigners,13.1,Bengaluru District,2023,1,0.0,,
+crime_by_foreigners,13.1,Bengaluru District,2024,0,0.0,,
+crime_by_foreigners,13.1,Bengaluru District,2025,0,0.0,,
+crime_by_foreigners,13.1,Belagavi District,2023,0,0.0,,
+crime_by_foreigners,13.1,Belagavi District,2024,0,0.0,,
+crime_by_foreigners,13.1,Belagavi District,2025,0,0.0,,
+crime_by_foreigners,13.1,Ballari,2023,0,0.0,,
+crime_by_foreigners,13.1,Ballari,2024,0,0.0,,
+crime_by_foreigners,13.1,Ballari,2025,0,0.0,,
+crime_by_foreigners,13.1,Bidar,2023,0,0.0,,
+crime_by_foreigners,13.1,Bidar,2024,0,0.0,,
+crime_by_foreigners,13.1,Bidar,2025,0,0.0,,
+crime_by_foreigners,13.1,Vijayapura,2023,0,0.0,,
+crime_by_foreigners,13.1,Vijayapura,2024,0,0.0,,
+crime_by_foreigners,13.1,Vijayapura,2025,0,0.0,,
+crime_by_foreigners,13.1,Chikkaballapura,2023,0,0.0,,
+crime_by_foreigners,13.1,Chikkaballapura,2024,1,0.0,,
+crime_by_foreigners,13.1,Chikkaballapura,2025,0,0.0,,
+crime_by_foreigners,13.1,Chamarajnagar,2023,0,0.0,,
+crime_by_foreigners,13.1,Chamarajnagar,2024,0,0.0,,
+crime_by_foreigners,13.1,Chamarajnagar,2025,0,0.0,,
+crime_by_foreigners,13.1,Chikkamagaluru,2023,0,0.0,,
+crime_by_foreigners,13.1,Chikkamagaluru,2024,0,0.0,,
+crime_by_foreigners,13.1,Chikkamagaluru,2025,1,0.0,,
+crime_by_foreigners,13.1,Chitradurga,2023,0,0.0,,
+crime_by_foreigners,13.1,Chitradurga,2024,0,0.0,,
+crime_by_foreigners,13.1,Chitradurga,2025,0,0.0,,
+crime_by_foreigners,13.1,Dakshina Kannada,2023,0,0.0,,
+crime_by_foreigners,13.1,Dakshina Kannada,2024,0,0.0,,
+crime_by_foreigners,13.1,Dakshina Kannada,2025,0,0.0,,
+crime_by_foreigners,13.1,Davanagere,2023,0,0.0,,
+crime_by_foreigners,13.1,Davanagere,2024,0,0.0,,
+crime_by_foreigners,13.1,Davanagere,2025,1,0.0,,
+crime_by_foreigners,13.1,Dharwad,2023,0,0.0,,
+crime_by_foreigners,13.1,Dharwad,2024,0,0.0,,
+crime_by_foreigners,13.1,Dharwad,2025,0,0.0,,
+crime_by_foreigners,13.1,Gadag,2023,0,0.0,,
+crime_by_foreigners,13.1,Gadag,2024,0,0.0,,
+crime_by_foreigners,13.1,Gadag,2025,0,0.0,,
+crime_by_foreigners,13.1,Kalaburgi,2023,0,0.0,,
+crime_by_foreigners,13.1,Kalaburgi,2024,0,0.0,,
+crime_by_foreigners,13.1,Kalaburgi,2025,0,0.0,,
+crime_by_foreigners,13.1,Hassan,2023,0,0.0,,
+crime_by_foreigners,13.1,Hassan,2024,1,0.0,,
+crime_by_foreigners,13.1,Hassan,2025,0,0.0,,
+crime_by_foreigners,13.1,Haveri,2023,0,0.0,,
+crime_by_foreigners,13.1,Haveri,2024,0,0.0,,
+crime_by_foreigners,13.1,Haveri,2025,0,0.0,,
+crime_by_foreigners,13.1,Hubballi Dharwad City,2023,0,0.0,,
+crime_by_foreigners,13.1,Hubballi Dharwad City,2024,0,0.0,,
+crime_by_foreigners,13.1,Hubballi Dharwad City,2025,0,0.0,,
+crime_by_foreigners,13.1,KGF,2023,0,0.0,,
+crime_by_foreigners,13.1,KGF,2024,1,0.0,,
+crime_by_foreigners,13.1,KGF,2025,0,0.0,,
+crime_by_foreigners,13.1,Kodagu,2023,0,0.0,,
+crime_by_foreigners,13.1,Kodagu,2024,0,0.0,,
+crime_by_foreigners,13.1,Kodagu,2025,0,0.0,,
+crime_by_foreigners,13.1,Kolar,2023,0,0.0,,
+crime_by_foreigners,13.1,Kolar,2024,0,0.0,,
+crime_by_foreigners,13.1,Kolar,2025,0,0.0,,
+crime_by_foreigners,13.1,Koppal,2023,0,0.0,,
+crime_by_foreigners,13.1,Koppal,2024,0,0.0,,
+crime_by_foreigners,13.1,Koppal,2025,0,0.0,,
+crime_by_foreigners,13.1,Mandya,2023,0,0.0,,
+crime_by_foreigners,13.1,Mandya,2024,0,0.0,,
+crime_by_foreigners,13.1,Mandya,2025,0,0.0,,
+crime_by_foreigners,13.1,Mangaluru City,2023,2,100.0,,
+crime_by_foreigners,13.1,Mangaluru City,2024,5,100.0,,
+crime_by_foreigners,13.1,Mangaluru City,2025,0,100.0,,
+crime_by_foreigners,13.1,Mysuru City,2023,0,100.0,,
+crime_by_foreigners,13.1,Mysuru City,2024,0,100.0,,
+crime_by_foreigners,13.1,Mysuru City,2025,0,100.0,,
+crime_by_foreigners,13.1,Mysuru District,2023,0,0.0,,
+crime_by_foreigners,13.1,Mysuru District,2024,0,0.0,,
+crime_by_foreigners,13.1,Mysuru District,2025,0,0.0,,
+crime_by_foreigners,13.1,Raichur,2023,0,0.0,,
+crime_by_foreigners,13.1,Raichur,2024,0,0.0,,
+crime_by_foreigners,13.1,Raichur,2025,0,0.0,,
+crime_by_foreigners,13.1,KRailways,2023,0,0.0,,
+crime_by_foreigners,13.1,KRailways,2024,0,0.0,,
+crime_by_foreigners,13.1,KRailways,2025,0,0.0,,
+crime_by_foreigners,13.1,Bengaluru South,2023,0,0.0,,
+crime_by_foreigners,13.1,Bengaluru South,2024,0,0.0,,
+crime_by_foreigners,13.1,Bengaluru South,2025,0,0.0,,
+crime_by_foreigners,13.1,Shimoga,2023,0,0.0,,
+crime_by_foreigners,13.1,Shimoga,2024,0,0.0,,
+crime_by_foreigners,13.1,Shimoga,2025,0,0.0,,
+crime_by_foreigners,13.1,Tumakuru,2023,0,0.0,,
+crime_by_foreigners,13.1,Tumakuru,2024,1,0.0,,
+crime_by_foreigners,13.1,Tumakuru,2025,0,0.0,,
+crime_by_foreigners,13.1,Udupi,2023,0,0.0,,
+crime_by_foreigners,13.1,Udupi,2024,1,0.0,,
+crime_by_foreigners,13.1,Udupi,2025,1,0.0,,
+crime_by_foreigners,13.1,Uttara Kannada,2023,0,0.0,,
+crime_by_foreigners,13.1,Uttara Kannada,2024,0,0.0,,
+crime_by_foreigners,13.1,Uttara Kannada,2025,0,0.0,,
+crime_by_foreigners,13.1,Yadgiri,2023,0,0.0,,
+crime_by_foreigners,13.1,Yadgiri,2024,0,0.0,,
+crime_by_foreigners,13.1,Yadgiri,2025,0,0.0,,
+crime_by_foreigners,13.1,Belagavi City,2023,2,0.0,,
+crime_by_foreigners,13.1,Belagavi City,2024,0,0.0,,
+crime_by_foreigners,13.1,Belagavi City,2025,0,0.0,,
+crime_by_foreigners,13.1,Kalaburgi City,2023,0,100.0,,
+crime_by_foreigners,13.1,Kalaburgi City,2024,0,100.0,,
+crime_by_foreigners,13.1,Kalaburgi City,2025,0,100.0,,
+crime_by_foreigners,13.1,Vijayanagara,2023,0,0.0,,
+crime_by_foreigners,13.1,Vijayanagara,2024,0,0.0,,
+crime_by_foreigners,13.1,Vijayanagara,2025,0,0.0,,
+crime_by_foreigners,13.1,TOTAL_DISTRICTS,2023,119,94.74,,
+crime_by_foreigners,13.1,TOTAL_DISTRICTS,2024,87,94.74,,
+crime_by_foreigners,13.1,TOTAL_DISTRICTS,2025,86,94.74,,

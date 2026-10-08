@@ -1,0 +1,40 @@
+﻿district,persons_arrested,juveniles_apprehended_convicted_past,juveniles_apprehended_not_convicted_past,juveniles_arrested_first_time_not_convicted,adults_arrested_not_convicted_past,adults_arrested_convicted_past,adults_arrested_first_time_not_convicted,recidivism_pct
+Bagalkot,881,22,0,0,858,1,0,0.1
+Bengaluru City,18512,545,10,6,17619,307,25,1.9
+Bengaluru District,3058,0,0,0,3058,0,0,0.0
+Belagavi District,1856,20,0,0,0,1836,0,98.9
+Ballari,934,17,0,0,917,0,0,0.0
+Bidar,1780,36,0,0,1744,0,0,0.0
+Vijayapura,4828,39,0,0,4789,0,0,0.0
+Chikkaballapura,1060,39,0,0,1016,0,5,0.5
+Chamarajnagar,968,0,25,2,941,0,0,2.8
+Chikkamagaluru,1086,2,2,0,953,129,0,12.1
+Chitradurga,4194,17,0,0,4177,0,0,0.0
+Dakshina Kannada,728,10,0,0,718,0,0,0.0
+Davanagere,874,66,0,0,733,75,0,8.6
+Dharwad,830,3,0,0,816,11,0,1.3
+Gadag,1282,26,0,0,1256,0,0,0.0
+Kalaburgi,2471,4,0,0,2467,0,0,0.0
+Hassan,6166,28,0,0,6138,0,0,0.0
+Haveri,1250,30,0,0,1220,0,0,0.0
+Dharwad Hubballi,1059,10,0,9,1040,0,0,0.8
+KGF,519,0,0,0,505,14,0,2.7
+Kodagu,1507,49,0,0,1458,0,0,0.0
+Kolar,2554,26,0,0,2528,0,0,0.0
+Koppal,734,5,0,0,729,0,0,0.0
+Mandya,867,57,0,0,810,0,0,0.0
+Mangaluru City,1299,19,1,0,1228,20,31,4.0
+Mysuru City,813,12,0,0,801,0,0,0.0
+Mysuru District,3020,25,0,0,2995,0,0,0.0
+Raichur,1794,33,0,0,1761,0,0,0.0
+KRailways,189,6,0,0,183,0,0,0.0
+Bengaluru South,3474,56,0,0,3418,0,0,0.0
+Shimoga,1934,18,0,0,1857,59,0,3.1
+Tumakuru,5594,25,3,0,5487,58,21,1.5
+Udupi,1177,2,1,0,1067,94,13,9.2
+Uttara Kannada,2863,12,0,0,2851,0,0,0.0
+Yadgiri,1450,15,0,0,1435,0,0,0.0
+Belagavi City,775,15,0,0,728,4,28,4.1
+Kalaburgi City,1129,8,0,0,1121,0,0,0.0
+Vijayanagara,1575,0,0,0,1575,0,0,0.0
+TOTAL_DISTRICTS,87084,1297,42,17,82997,2608,123,3.2
